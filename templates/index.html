@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sistema de Toma de Precios</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .filtros {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        .filtro {
+            display: flex;
+            flex-direction: column;
+        }
+        .filtro label {
+            margin-bottom: 5px;
+            font-weight: bold;
+            color: #555;
+        }
+        .filtro input, .filtro select {
+            padding: 8px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .botones {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .btn {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+            margin: 0 10px;
+        }
+        .btn:hover {
+            background-color: #0056b3;
+        }
+        .btn-success {
+            background-color: #28a745;
+        }
+        .btn-success:hover {
+            background-color: #1e7e34;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f8f9fa;
+            font-weight: bold;
+            position: sticky;
+            top: 0;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #e9ecef;
+        }
+        .precio-input {
+            width: 80px;
+            padding: 4px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            text-align: right;
+        }
+        .estado-x {
+            background-color: #fff3cd;
+        }
+        .mensaje {
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+            display: none;
+        }
+        .mensaje.exito {
+            background-color: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .mensaje.error {
+            background-color: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sistema de Toma de Precios de Productos</h1>
+        
+        <div class="filtros">
+            <div class="filtro">
+                <label for="categoria">Categoría:</label>
+                <select id="categoria">
+                    <option value="">Todas las categorías</option>
+                    <option value="FRUTAS">FRUTAS</option>
+                    <option value="HORTALIZAS">HORTALIZAS</option>
+                    <option value="ABASTOS">ABASTOS</option>
+                    <option value="TUBERCÚLOS">TUBERCÚLOS</option>
+                </select>
+            </div>
+            <div class="filtro">
+                <label for="codigo">Código:</label>
+                <input type="text" id="codigo" placeholder="Buscar por código">
+            </div>
+            <div class="filtro">
+                <label for="nombre">Nombre:</label>
+                <input type="text" id="nombre" placeholder="Buscar por nombre">
+            </div>
+        </div>
+
+        <div class="botones">
+            <button class="btn" onclick="aplicarFiltros()">Aplicar Filtros</button>
+            <button class="btn" onclick="limpiarFiltros()">Limpiar Filtros</button>
+            <button class="btn btn-success" onclick="guardarTodos()">Guardar Todos los Cambios</button>
+            <button class="btn" style="background-color: #dc3545;" onclick="nuevaToma()">Nueva Toma de Precios</button>
+        </div>
+
+        <div id="mensaje" class="mensaje"></div>
+
+        <table id="tablaProductos">
+            <thead>
+                <tr>
+                    <th>Cod.</th>
+                    <th>Estado</th>
+                    <th>Categoría</th>
+                    <th>Producto</th>
+                    <th>Peso (Kg)</th>
+                    <th>Precio Anterior</th>
+                    <th>Precio Actual</th>
+                </tr>
+            </thead>
+            <tbody id="cuerpoTabla">
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        let productosOriginales = [];
+        let productosFiltrados = [];
+
+        document.addEventListener('DOMContentLoaded', function() {
+            cargarProductos();
+            
+            // Agregar eventos para filtros en tiempo real
+            document.getElementById('categoria').addEventListener('change', aplicarFiltros);
+            document.getElementById('codigo').addEventListener('input', aplicarFiltros);
+            document.getElementById('nombre').addEventListener('input', aplicarFiltros);
+        });
+
+        async function cargarProductos() {
+            try {
+                const response = await fetch('/api/productos');
+                productosOriginales = await response.json();
+                productosFiltrados = [...productosOriginales];
+                mostrarProductos();
+            } catch (error) {
+                mostrarMensaje('Error al cargar productos', 'error');
+            }
+        }
+
+        function mostrarProductos() {
+            const cuerpoTabla = document.getElementById('cuerpoTabla');
+            cuerpoTabla.innerHTML = '';
+
+            productosFiltrados.forEach(producto => {
+                const fila = document.createElement('tr');
+                if (producto.estado === 'x') {
+                    fila.classList.add('estado-x');
+                }
+
+                fila.innerHTML = `
+                    <td>${producto.codigo}</td>
+                    <td>${producto.estado}</td>
+                    <td>${producto.categoria}</td>
+                    <td>${producto.nombre_completo}</td>
+                    <td>${producto.peso_kg}</td>
+                    <td>$${producto.precio_anterior || ''}</td>
+                    <td>
+                        <input type="number" 
+                               class="precio-input" 
+                               value="${producto.precio_actual || ''}" 
+                               step="0.01" 
+                               data-codigo="${producto.codigo}"
+                               onchange="actualizarPrecio(${producto.codigo}, this.value)">
+                    </td>
+                `;
+                cuerpoTabla.appendChild(fila);
+            });
+        }
+
+        async function aplicarFiltros() {
+            const categoria = document.getElementById('categoria').value;
+            const codigo = document.getElementById('codigo').value;
+            const nombre = document.getElementById('nombre').value;
+
+            const params = new URLSearchParams();
+            if (categoria) params.append('categoria', categoria);
+            if (codigo) params.append('codigo', codigo);
+            if (nombre) params.append('nombre', nombre);
+
+            try {
+                const response = await fetch(`/api/productos?${params.toString()}`);
+                productosFiltrados = await response.json();
+                mostrarProductos();
+            } catch (error) {
+                mostrarMensaje('Error al aplicar filtros', 'error');
+            }
+        }
+
+        function limpiarFiltros() {
+            document.getElementById('categoria').value = '';
+            document.getElementById('codigo').value = '';
+            document.getElementById('nombre').value = '';
+            productosFiltrados = [...productosOriginales];
+            mostrarProductos();
+        }
+
+        function actualizarPrecio(codigo, precio) {
+            const producto = productosFiltrados.find(p => p.codigo === codigo);
+            if (producto) {
+                producto.precio_actual = precio;
+            }
+        }
+
+        async function guardarTodos() {
+            const precios = [];
+            const inputs = document.querySelectorAll('.precio-input');
+            
+            inputs.forEach(input => {
+                precios.push({
+                    codigo: parseInt(input.dataset.codigo),
+                    precio_actual: input.value
+                });
+            });
+
+            try {
+                const response = await fetch('/api/guardar_todos', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(precios)
+                });
+
+                const result = await response.json();
+                if (result.success) {
+                    mostrarMensaje('Precios guardados exitosamente', 'exito');
+                    cargarProductos(); // Recargar para mostrar cambios
+                } else {
+                    mostrarMensaje('Error al guardar precios', 'error');
+                }
+            } catch (error) {
+                mostrarMensaje('Error al guardar precios', 'error');
+            }
+        }
+
+        async function nuevaToma() {
+            if (confirm('¿Está seguro que desea iniciar una nueva toma de precios? Los precios actuales pasarán a ser precios anteriores y se vaciarán los precios actuales.')) {
+                try {
+                    const response = await fetch('/api/nueva_toma', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json'
+                        }
+                    });
+
+                    const result = await response.json();
+                    if (result.success) {
+                        mostrarMensaje('Nueva toma de precios iniciada exitosamente', 'exito');
+                        cargarProductos(); // Recargar para mostrar cambios
+                    } else {
+                        mostrarMensaje('Error al iniciar nueva toma de precios', 'error');
+                    }
+                } catch (error) {
+                    mostrarMensaje('Error al iniciar nueva toma de precios', 'error');
+                }
+            }
+        }
+
+        function mostrarMensaje(texto, tipo) {
+            const mensaje = document.getElementById('mensaje');
+            mensaje.textContent = texto;
+            mensaje.className = `mensaje ${tipo}`;
+            mensaje.style.display = 'block';
+            
+            setTimeout(() => {
+                mensaje.style.display = 'none';
+            }, 3000);
+        }
+    </script>
+</body>
+</html>
