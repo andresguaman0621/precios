@@ -147,6 +147,7 @@
             <button class="btn" onclick="limpiarFiltros()">Limpiar Filtros</button>
             <button class="btn btn-success" onclick="guardarTodos()">Guardar Todos los Cambios</button>
             <button class="btn" style="background-color: #dc3545;" onclick="nuevaToma()">Nueva Toma de Precios</button>
+            <button class="btn" style="background-color: #17a2b8;" onclick="exportarExcel()">Exportar Excel</button>
         </div>
 
         <div id="mensaje" class="mensaje"></div>
@@ -158,6 +159,8 @@
                     <th>Estado</th>
                     <th>Categoría</th>
                     <th>Producto</th>
+                    <th>Tamaño</th>
+                    <th>Presentación</th>
                     <th>Peso (Kg)</th>
                     <th>Precio Anterior</th>
                     <th>Precio Actual</th>
@@ -207,13 +210,15 @@
                     <td>${producto.estado}</td>
                     <td>${producto.categoria}</td>
                     <td>${producto.nombre_completo}</td>
+                    <td>${producto.tamaño || ''}</td>
+                    <td>${producto.presentacion || ''}</td>
                     <td>${producto.peso_kg}</td>
-                    <td>$${producto.precio_anterior || ''}</td>
+                    <td>${producto.precio_anterior || ''}</td>
                     <td>
-                        <input type="number" 
-                               class="precio-input" 
-                               value="${producto.precio_actual || ''}" 
-                               step="0.01" 
+                        <input type="number"
+                               class="precio-input"
+                               value="${producto.precio_actual || ''}"
+                               step="0.01"
                                data-codigo="${producto.codigo}"
                                onchange="actualizarPrecio(${producto.codigo}, this.value)">
                     </td>
@@ -311,12 +316,35 @@
             }
         }
 
+        function exportarExcel() {
+            const categoria = document.getElementById('categoria').value;
+            const codigo = document.getElementById('codigo').value;
+            const nombre = document.getElementById('nombre').value;
+
+            const params = new URLSearchParams();
+            if (categoria) params.append('categoria', categoria);
+            if (codigo) params.append('codigo', codigo);
+            if (nombre) params.append('nombre', nombre);
+
+            const url = `/api/export_excel?${params.toString()}`;
+
+            // Crear elemento de descarga
+            const link = document.createElement('a');
+            link.href = url;
+            link.style.display = 'none';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+
+            mostrarMensaje('Descarga de reporte iniciada', 'exito');
+        }
+
         function mostrarMensaje(texto, tipo) {
             const mensaje = document.getElementById('mensaje');
             mensaje.textContent = texto;
             mensaje.className = `mensaje ${tipo}`;
             mensaje.style.display = 'block';
-            
+
             setTimeout(() => {
                 mensaje.style.display = 'none';
             }, 3000);

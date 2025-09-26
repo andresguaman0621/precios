@@ -4,8 +4,10 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ACELGA FORDHOOK",
+    "tamaño": "",
+    "presentacion": "CARGA",
     "peso_kg": 6,
-    "precio_anterior": "2",
+    "precio_anterior": "",
     "precio_actual": ""
   },
   {
@@ -13,8 +15,10 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "ACHOTILLO CRIOLLO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "CAJAS",
     "peso_kg": 25,
-    "precio_anterior": "2",
+    "precio_anterior": "",
     "precio_actual": ""
   },
   {
@@ -22,8 +26,10 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "AGUACATE GUATEMALTECO DE GUAYLLABAMBA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 52,
-    "precio_anterior": "3",
+    "precio_anterior": "",
     "precio_actual": ""
   },
   {
@@ -31,6 +37,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "AGUACATE GUATEMALTECO DE GUAYLLABAMBA PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -40,6 +48,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "AGUACATE GUATEMALTECO DE PATATE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -49,6 +59,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "AGUACATE GUATEMALTECO DE PATATE PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -58,6 +70,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "AGUACATE GUATEMALTECO DEL NORTE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -67,6 +81,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "AJÍ AMBATEÑO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
@@ -76,6 +92,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "AJÍ DEL VALLE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
@@ -85,6 +103,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "AJO CHINO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "MALLA",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -94,6 +114,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "AJO NACIONAL GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -103,6 +125,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "AJO PELADO- CHINO",
+    "tamaño": "",
+    "presentacion": "FUNDA",
     "peso_kg": 0.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -112,6 +136,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "APIO VERDE",
+    "tamaño": "",
+    "presentacion": "CARGA",
     "peso_kg": 12,
     "precio_anterior": "",
     "precio_actual": ""
@@ -120,7 +146,9 @@
     "codigo": 160,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "ARANDANO  GRANDE",
+    "nombre_completo": "ARANDANO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -129,7 +157,9 @@
     "codigo": 161,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "ARANDANO  GRANDE",
+    "nombre_completo": "ARANDANO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 12,
     "precio_anterior": "",
     "precio_actual": ""
@@ -139,6 +169,8 @@
     "estado": "x",
     "categoria": "ABASTOS",
     "nombre_completo": "ARROZ PILADO ENVEJECIDO ARTIFICIAL",
+    "tamaño": "",
+    "presentacion": "QUINTAL",
     "peso_kg": 50,
     "precio_anterior": "",
     "precio_actual": ""
@@ -148,6 +180,8 @@
     "estado": "",
     "categoria": "ABASTOS",
     "nombre_completo": "ARROZ PILADO NATURAL GRANO CORTO",
+    "tamaño": "",
+    "presentacion": "QUINTAL",
     "peso_kg": 50,
     "precio_anterior": "",
     "precio_actual": ""
@@ -157,6 +191,8 @@
     "estado": "",
     "categoria": "ABASTOS",
     "nombre_completo": "ARROZ PILADO NATURAL GRANO LARGO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 50,
     "precio_anterior": "",
     "precio_actual": ""
@@ -166,6 +202,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ARVEJA BLANCA",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 57,
     "precio_anterior": "",
     "precio_actual": ""
@@ -175,6 +213,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ARVEJA VERDE",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 57,
     "precio_anterior": "",
     "precio_actual": ""
@@ -184,6 +224,8 @@
     "estado": "",
     "categoria": "ABASTOS",
     "nombre_completo": "AZÚCAR TABABELA",
+    "tamaño": "",
+    "presentacion": "QUINTAL",
     "peso_kg": 50,
     "precio_anterior": "",
     "precio_actual": ""
@@ -193,6 +235,8 @@
     "estado": "x",
     "categoria": "ABASTOS",
     "nombre_completo": "AZÚCAR TRONCAL",
+    "tamaño": "",
+    "presentacion": "QUINTAL",
     "peso_kg": 50,
     "precio_anterior": "",
     "precio_actual": ""
@@ -202,6 +246,8 @@
     "estado": "",
     "categoria": "ABASTOS",
     "nombre_completo": "AZÚCAR VALDEZ",
+    "tamaño": "",
+    "presentacion": "QUINTAL",
     "peso_kg": 50,
     "precio_anterior": "",
     "precio_actual": ""
@@ -210,7 +256,9 @@
     "codigo": 162,
     "estado": "x",
     "categoria": "FRUTAS",
-    "nombre_completo": "BABACO  GRANDE",
+    "nombre_completo": "BABACO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -219,7 +267,9 @@
     "codigo": 163,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "BABACO  PAREJO",
+    "nombre_completo": "BABACO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "CARTON",
     "peso_kg": 28,
     "precio_anterior": "",
     "precio_actual": ""
@@ -229,6 +279,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "BRÓCOLI VERDE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "UNIDAD",
     "peso_kg": 1.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -238,6 +290,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "BRÓCOLI VERDE PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "UNIDAD",
     "peso_kg": 0.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -247,6 +301,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "CAPULÍ CHAUCHA NEGRO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "BALDE",
     "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
@@ -256,6 +312,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "CAPULÍ CHAUCHA ROJO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "BALDE",
     "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
@@ -265,6 +323,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA LARGA DE CANGAGUA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "ATADO",
     "peso_kg": 1.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -274,6 +334,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA LARGA MACHACHEÑA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "ATADO",
     "peso_kg": 1.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -283,6 +345,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA PAITEÑA DEL NORTE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -292,6 +356,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA PAITEÑA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -301,6 +367,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA PAITEÑA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "QUINTAL",
     "peso_kg": 45.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -310,6 +378,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA PERLA DEL NORTE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -319,6 +389,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA PERLA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -328,6 +400,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CEBOLLA PUERRO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "ATADO",
     "peso_kg": 5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -337,6 +411,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "CHIRIMOYA VERDE PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CARTON",
     "peso_kg": 21,
     "precio_anterior": "",
     "precio_actual": ""
@@ -346,6 +422,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CHOCLO BLANCO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -355,6 +433,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CHOCLO BLANCO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -364,6 +444,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CHOCLOS AMARILLO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -373,6 +455,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CHOCLOS AMARILLO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -382,6 +466,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "CLAUDIA MANGO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
@@ -391,6 +477,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "CLAUDIA MIRABEL GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
@@ -400,6 +488,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "COCO SECO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "UNITARIO",
     "peso_kg": 0.7,
     "precio_anterior": "",
     "precio_actual": ""
@@ -409,6 +499,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "COCO SECO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "UNITARIO",
     "peso_kg": 0.4,
     "precio_anterior": "",
     "precio_actual": ""
@@ -418,6 +510,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "COCO TIERNO",
+    "tamaño": "",
+    "presentacion": "UNITARIO",
     "peso_kg": 3,
     "precio_anterior": "",
     "precio_actual": ""
@@ -427,6 +521,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COL DE MILÁN GRANDES",
+    "tamaño": "GRANDES",
+    "presentacion": "UNIDAD",
     "peso_kg": 4,
     "precio_anterior": "",
     "precio_actual": ""
@@ -436,6 +532,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COL DE MILÁN PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "UNIDAD",
     "peso_kg": 2,
     "precio_anterior": "",
     "precio_actual": ""
@@ -445,6 +543,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COL DE MILÁN PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "SACO",
     "peso_kg": 44,
     "precio_anterior": "",
     "precio_actual": ""
@@ -454,6 +554,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COL MORADA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "UNIDAD",
     "peso_kg": 3,
     "precio_anterior": "",
     "precio_actual": ""
@@ -463,6 +565,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COL MORADA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "SACO",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -472,6 +576,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COLIFLOR SNOW BALL",
+    "tamaño": "",
+    "presentacion": "UNIDAD",
     "peso_kg": 1.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -481,6 +587,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "COLIFLOR SNOW BALL",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -490,6 +598,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "CULANTRO ANITA",
+    "tamaño": "",
+    "presentacion": "CARGA",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -499,6 +609,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "DURAZNO DE LA SIERRA",
+    "tamaño": "",
+    "presentacion": "GAVETAS",
     "peso_kg": 24,
     "precio_anterior": "",
     "precio_actual": ""
@@ -508,6 +620,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ESPINACA SAVOY",
+    "tamaño": "",
+    "presentacion": "FUNDA",
     "peso_kg": 12,
     "precio_anterior": "",
     "precio_actual": ""
@@ -516,7 +630,9 @@
     "codigo": 191,
     "estado": "",
     "categoria": "HORTALIZAS",
-    "nombre_completo": "FRÉJOL BLANCO",
+    "nombre_completo": "FRÍJOL BLANCO",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 46,
     "precio_anterior": "",
     "precio_actual": ""
@@ -525,7 +641,9 @@
     "codigo": 21,
     "estado": "",
     "categoria": "HORTALIZAS",
-    "nombre_completo": "FRÉJOL BOLA ROJA",
+    "nombre_completo": "FRÍJOL BOLA ROJA",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 46,
     "precio_anterior": "",
     "precio_actual": ""
@@ -534,7 +652,9 @@
     "codigo": 22,
     "estado": "x",
     "categoria": "HORTALIZAS",
-    "nombre_completo": "FRÉJOL CARGA BELLO",
+    "nombre_completo": "FRÍJOL CARGA BELLO",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 46,
     "precio_anterior": "",
     "precio_actual": ""
@@ -544,6 +664,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "FRUTA CHINA AMARILLA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 23,
     "precio_anterior": "",
     "precio_actual": ""
@@ -553,6 +675,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "FRUTILLA MONTERRY GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "BALDE",
     "peso_kg": 13,
     "precio_anterior": "",
     "precio_actual": ""
@@ -562,6 +686,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "FRUTILLA MONTERRY PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "BALDE",
     "peso_kg": 12.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -571,6 +697,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "FRUTILLA MONTERRY PEQUEÑA",
+    "tamaño": "PEQUEÑA",
+    "presentacion": "BALDE",
     "peso_kg": 11.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -580,6 +708,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "GRANADILLA AMARILLA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -589,6 +719,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "GRANADILLA AMARILLA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CARTON",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -598,6 +730,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "GROSELLA VERDE",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -607,6 +741,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "GUANABANAS DULCE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "KG",
     "peso_kg": 1.05,
     "precio_anterior": "",
     "precio_actual": ""
@@ -616,6 +752,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "GUAYABAS PULPA ROSADA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 12,
     "precio_anterior": "",
     "precio_actual": ""
@@ -625,6 +763,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "HABAS COMUN GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 37,
     "precio_anterior": "",
     "precio_actual": ""
@@ -634,6 +774,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "HABAS COMÚN PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "SACO",
     "peso_kg": 37,
     "precio_anterior": "",
     "precio_actual": ""
@@ -643,6 +785,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "HIGO",
+    "tamaño": "",
+    "presentacion": "FUNDA",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -651,7 +795,9 @@
     "codigo": 109,
     "estado": "",
     "categoria": "ABASTOS",
-    "nombre_completo": "HUEVOS  GRANDES",
+    "nombre_completo": "HUEVOS GRANDES",
+    "tamaño": "GRANDES",
+    "presentacion": "CUBETA (30 UNIDADES)",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -660,7 +806,9 @@
     "codigo": 110,
     "estado": "x",
     "categoria": "ABASTOS",
-    "nombre_completo": "HUEVOS  MEDIANOS",
+    "nombre_completo": "HUEVOS MEDIANOS",
+    "tamaño": "MEDIANOS",
+    "presentacion": "CUBETA (30 UNIDADES)",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -669,7 +817,9 @@
     "codigo": 111,
     "estado": "",
     "categoria": "ABASTOS",
-    "nombre_completo": "HUEVOS  PEQUEÑO",
+    "nombre_completo": "HUEVOS PEQUEÑO",
+    "tamaño": "PEQUEÑO",
+    "presentacion": "CUBETA (30 UNIDADES)",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -678,7 +828,9 @@
     "codigo": 61,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "KIWI  GRANDE",
+    "nombre_completo": "KIWI GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "FUNDA",
     "peso_kg": 5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -687,7 +839,9 @@
     "codigo": 62,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "KIWI  PAREJA",
+    "nombre_completo": "KIWI PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CARTON",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -697,6 +851,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "LECHUGA ESCAROLA",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -706,6 +862,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "LECHUGA ICEBERG",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -715,6 +873,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "LIMÓN MEYER GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "MALLA",
     "peso_kg": 34,
     "precio_anterior": "",
     "precio_actual": ""
@@ -724,6 +884,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "LIMÓN MEYER PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "MALLA",
     "peso_kg": 32,
     "precio_anterior": "",
     "precio_actual": ""
@@ -733,6 +895,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "LIMÓN SUTÍL MANABA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "MALLA",
     "peso_kg": 36,
     "precio_anterior": "",
     "precio_actual": ""
@@ -742,6 +906,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "LIMÓN SUTÍL PERUANO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "MALLA",
     "peso_kg": 38,
     "precio_anterior": "",
     "precio_actual": ""
@@ -751,6 +917,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "LIMÓN SUTÍL TAHITÍ GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "MALLA",
     "peso_kg": 68,
     "precio_anterior": "",
     "precio_actual": ""
@@ -760,6 +928,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "MANDARINAS CHONERA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CIENTO",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -769,6 +939,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANDARINAS CHONERA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CIENTO",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -778,6 +950,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANDARINAS ISABELINA SIN PEPA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 17,
     "precio_anterior": "",
     "precio_actual": ""
@@ -787,6 +961,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANDARINAS KING GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CIENTO",
     "peso_kg": 26,
     "precio_anterior": "",
     "precio_actual": ""
@@ -796,6 +972,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANDARINAS KING PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CIENTO",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -805,6 +983,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANDARINAS MANDARINA DE LA SIERRA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CIENTO",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -814,6 +994,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANGO DE CHUPAR PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "CAJAS",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -823,6 +1005,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANGO TOMMY PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "MALLA",
     "peso_kg": 33,
     "precio_anterior": "",
     "precio_actual": ""
@@ -832,6 +1016,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANGO TOMMY PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "GAVETAS",
     "peso_kg": 27,
     "precio_anterior": "",
     "precio_actual": ""
@@ -841,6 +1027,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANZANA DE COLADA EMILIA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 21,
     "precio_anterior": "",
     "precio_actual": ""
@@ -850,6 +1038,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANZANAS ROYAL GALA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -859,6 +1049,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANZANAS ROYAL GALA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CARTON",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -868,6 +1060,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANZANAS VERDE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 21,
     "precio_anterior": "",
     "precio_actual": ""
@@ -877,6 +1071,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MANZANAS VERDE PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CARTON",
     "peso_kg": 21,
     "precio_anterior": "",
     "precio_actual": ""
@@ -886,6 +1082,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MARACUYÁ AMARILLA",
+    "tamaño": "",
+    "presentacion": "FUNDA",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -895,6 +1093,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "MELLOCO AMARILLO CREMOSO",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 16,
     "precio_anterior": "",
     "precio_actual": ""
@@ -904,6 +1104,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "MELLOCO AMARILLO CREMOSO",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -913,6 +1115,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MELÓN CANTALOUP GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "UNIDAD",
     "peso_kg": 3,
     "precio_anterior": "",
     "precio_actual": ""
@@ -922,6 +1126,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MELÓN CANTALOUP PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "UNIDAD",
     "peso_kg": 2,
     "precio_anterior": "",
     "precio_actual": ""
@@ -931,6 +1137,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MELÓN CANTALOUP PEQUEÑA",
+    "tamaño": "PEQUEÑA",
+    "presentacion": "UNIDAD",
     "peso_kg": 1,
     "precio_anterior": "",
     "precio_actual": ""
@@ -940,6 +1148,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MORA DE CASTILLA AMBATEÑA",
+    "tamaño": "",
+    "presentacion": "BALDE",
     "peso_kg": 6.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -948,7 +1158,9 @@
     "codigo": 78,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "MORA DE CASTILLA IBARREÑA GRANDE",
+    "nombre_completo": "MORA DE CASTILLA IBAREÑA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CANASTA",
     "peso_kg": 9,
     "precio_anterior": "",
     "precio_actual": ""
@@ -957,7 +1169,9 @@
     "codigo": 200,
     "estado": "",
     "categoria": "FRUTAS",
-    "nombre_completo": "MORA DE CASTILLA IBARREÑA PAREJA",
+    "nombre_completo": "MORA DE CASTILLA IBAREÑA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "CANASTA",
     "peso_kg": 7,
     "precio_anterior": "",
     "precio_actual": ""
@@ -967,6 +1181,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "MORTIÑO",
+    "tamaño": "",
+    "presentacion": "BALDE",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -976,6 +1192,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "NABO CHINO NABO DE HOJA",
+    "tamaño": "",
+    "presentacion": "CARGA",
     "peso_kg": 3,
     "precio_anterior": "",
     "precio_actual": ""
@@ -985,6 +1203,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "NARANJA COMÚN GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 100,
     "precio_anterior": "",
     "precio_actual": ""
@@ -994,6 +1214,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "NARANJA TANGELO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1003,6 +1225,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "NARANJILLA COLADA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1012,6 +1236,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "NARANJILLA COLADA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "SACO",
     "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1021,6 +1247,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "NARANJILLA JUGO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1030,6 +1258,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "NARANJILLA JUGO PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1039,6 +1269,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "OVO VERDE- ROJO",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1048,6 +1280,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PAPANABO PURPLE WHITE",
+    "tamaño": "",
+    "presentacion": "ATADO",
     "peso_kg": 3,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1055,8 +1289,10 @@
   {
     "codigo": 127,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS CHAUCHA AMARILLA",
+    "tamaño": "",
+    "presentacion": "MALLA",
     "peso_kg": 5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1064,8 +1300,10 @@
   {
     "codigo": 203,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS CHAUCHA AMARILLA",
+    "tamaño": "",
+    "presentacion": "MALLA",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1073,8 +1311,10 @@
   {
     "codigo": 119,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS CHAUCHA BLANCA",
+    "tamaño": "",
+    "presentacion": "MALLA",
     "peso_kg": 5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1082,8 +1322,10 @@
   {
     "codigo": 204,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS CHAUCHA BLANCA",
+    "tamaño": "",
+    "presentacion": "MALLA",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1091,8 +1333,10 @@
   {
     "codigo": 205,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS CHAUCHA BLANCA",
+    "tamaño": "",
+    "presentacion": "MALLA",
     "peso_kg": 15,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1100,8 +1344,10 @@
   {
     "codigo": 122,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS PERA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1109,8 +1355,10 @@
   {
     "codigo": 202,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS SUPERCHOLA CHAUPI",
+    "tamaño": "CHAUPI",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1118,8 +1366,10 @@
   {
     "codigo": 117,
     "estado": "x",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS SUPERCHOLA GRUESA",
+    "tamaño": "GRUESA",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1127,8 +1377,10 @@
   {
     "codigo": 118,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS SUPERCHOLA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1136,8 +1388,10 @@
   {
     "codigo": 120,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS SUPERCHOLA PEQUEÑA",
+    "tamaño": "PEQUEÑA",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1145,8 +1399,10 @@
   {
     "codigo": 121,
     "estado": "",
-    "categoria": "TUBERCÚLOS",
+    "categoria": "TUBÉRCULOS",
     "nombre_completo": "PAPAS ÚNICA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "QUINTAL",
     "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1156,6 +1412,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "PAPAYA CAMILA ALARGADA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 25,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1165,6 +1423,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PAPAYA CAMILLA REDONDA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1174,6 +1434,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PAPAYA HAWUAIANA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 11,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1183,6 +1445,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO AMBATEÑO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 28,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1192,6 +1456,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO AMBATEÑO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 29,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1201,6 +1467,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO DEL VALLE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 29,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1210,6 +1478,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO DEL VALLE PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 29,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1219,6 +1489,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PEPINO DULCE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CAJAS",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1228,6 +1500,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PERAS AMBATEÑA CIRUELA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 16,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1237,6 +1511,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PERAS FUREL GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1246,6 +1522,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PERAS VERDE GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1255,6 +1533,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PEREJIL",
+    "tamaño": "",
+    "presentacion": "CARGA",
     "peso_kg": 13,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1264,6 +1544,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PIMIENTO AMARILLO",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 11,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1273,6 +1555,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PIMIENTO ROJO",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 11,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1282,6 +1566,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "PIMIENTO VERDE",
+    "tamaño": "",
+    "presentacion": "SACO",
     "peso_kg": 16,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1291,6 +1577,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "PIÑA MD2 GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "UNIDAD",
     "peso_kg": 2.22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1300,6 +1588,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PIÑA MD2 MEDIANA",
+    "tamaño": "MEDIANA",
+    "presentacion": "UNIDAD",
     "peso_kg": 2,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1309,6 +1599,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PIÑA MD2 PEQUEÑA",
+    "tamaño": "PEQUEÑA",
+    "presentacion": "UNIDAD",
     "peso_kg": 1.4,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1318,6 +1610,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PITHAJAYA AMARILLA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "GAVETAS",
     "peso_kg": 23,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1327,6 +1621,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PITHAJAYA ROJA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CIENTO",
     "peso_kg": 36,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1336,6 +1632,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO BARRAGANETE MADURO",
+    "tamaño": "",
+    "presentacion": "RACIMO",
     "peso_kg": 16,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1345,6 +1643,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO BARRAGANETE VERDE",
+    "tamaño": "",
+    "presentacion": "RACIMO",
     "peso_kg": 18,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1354,6 +1654,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO DOMINICO MADURO",
+    "tamaño": "",
+    "presentacion": "RACIMO",
     "peso_kg": 15,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1363,6 +1665,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO DOMINICO VERDE",
+    "tamaño": "",
+    "presentacion": "RACIMO",
     "peso_kg": 16,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1372,6 +1676,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO MAQUEÑO",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 40,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1381,6 +1687,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO MAQUEÑO",
+    "tamaño": "",
+    "presentacion": "RACIMO",
     "peso_kg": 25,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1390,6 +1698,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO ORITO",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 25,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1399,6 +1709,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "PLÁTANO SEDA",
+    "tamaño": "",
+    "presentacion": "RACIMO",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1408,6 +1720,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "RABANO",
+    "tamaño": "",
+    "presentacion": "ATADO",
     "peso_kg": 0.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1417,6 +1731,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "REMOLACHA",
+    "tamaño": "",
+    "presentacion": "ATADO",
     "peso_kg": 3,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1425,7 +1741,9 @@
     "codigo": 39,
     "estado": "",
     "categoria": "HORTALIZAS",
-    "nombre_completo": "REMOLACHA  GRANDE",
+    "nombre_completo": "REMOLACHA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1434,7 +1752,9 @@
     "codigo": 40,
     "estado": "",
     "categoria": "HORTALIZAS",
-    "nombre_completo": "SAMBO  GRANDE",
+    "nombre_completo": "SAMBO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 58,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1444,6 +1764,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "SANDÍA HÍBRIDA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "UNIDAD",
     "peso_kg": 11,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1453,6 +1775,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "SANDÍA HÍBRIDA PAREJA",
+    "tamaño": "PAREJA",
+    "presentacion": "UNIDAD",
     "peso_kg": 6,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1462,6 +1786,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "SANDÍA HÍBRIDA PEQUEÑA",
+    "tamaño": "PEQUEÑA",
+    "presentacion": "UNIDAD",
     "peso_kg": 4,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1471,6 +1797,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TAMARINDO",
+    "tamaño": "",
+    "presentacion": "GAVETAS",
     "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1480,6 +1808,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TAXO AMARILLO",
+    "tamaño": "",
+    "presentacion": "GAVETAS",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1489,6 +1819,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TAXO VERDE",
+    "tamaño": "",
+    "presentacion": "GAVETAS",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1498,6 +1830,8 @@
     "estado": "x",
     "categoria": "FRUTAS",
     "nombre_completo": "TOMATE DE ÁRBOL AMARILLO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1507,6 +1841,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TOMATE DE ÁRBOL AMARILLO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1516,6 +1852,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TOMATE DE ÁRBOL MORADO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 30,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1525,6 +1863,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "TOMATE RIÑÓN PIETRO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "GAVETAS",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1534,6 +1874,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "TOMATE RIÑÓN PIETRO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CARTON",
     "peso_kg": 25,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1543,6 +1885,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "TOMATE RIÑÓN PIETRO PAREJO",
+    "tamaño": "PAREJO",
+    "presentacion": "GAVETAS",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1552,6 +1896,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TORONJA PULPA BLANCA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CIENTO",
     "peso_kg": 28,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1561,6 +1907,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "TORONJA PULPA ROJA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "CIENTO",
     "peso_kg": 28,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1570,6 +1918,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "UVAS NEGRA",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 9,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1579,6 +1929,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "UVAS ROJA",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 9,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1588,6 +1940,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "UVAS VERDE AMERICANA",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 8,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1597,6 +1951,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "UVILLA COMÚN GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "GAVETAS",
     "peso_kg": 10,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1606,6 +1962,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "VAINITA",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 15,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1615,6 +1973,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "YUCA AMARILLA",
+    "tamaño": "",
+    "presentacion": "FUNDA",
     "peso_kg": 22,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1624,6 +1984,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "YUCA BLANCA",
+    "tamaño": "",
+    "presentacion": "FUNDA",
     "peso_kg": 37,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1633,6 +1995,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ZANAHORIA AMARILLA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 35,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1642,6 +2006,8 @@
     "estado": "x",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ZANAHORIA AMARILLA GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 45.5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1651,6 +2017,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ZAPALLO COSTA GRANDES",
+    "tamaño": "GRANDES",
+    "presentacion": "UNIDAD",
     "peso_kg": 5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1660,6 +2028,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ZAPALLO SIERRA UNIDAD",
+    "tamaño": "UNIDAD",
+    "presentacion": "UNIDAD",
     "peso_kg": 5,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1669,6 +2039,8 @@
     "estado": "",
     "categoria": "FRUTAS",
     "nombre_completo": "ZAPOTE CRIOLLO GRANDE",
+    "tamaño": "GRANDE",
+    "presentacion": "SACO",
     "peso_kg": 100,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1678,6 +2050,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ZUQUINI AMARILLO",
+    "tamaño": "",
+    "presentacion": "CARTON",
     "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
@@ -1687,6 +2061,8 @@
     "estado": "",
     "categoria": "HORTALIZAS",
     "nombre_completo": "ZUQUINI VERDE",
+    "tamaño": "",
+    "presentacion": "CAJAS",
     "peso_kg": 9.5,
     "precio_anterior": "",
     "precio_actual": ""
