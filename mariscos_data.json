@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "producto": "CAMARÓN",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "3.50"
+  },
+  {
+    "id": 2,
+    "producto": "LANGOSTINO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "4.00",
+    "precio_actual": ""
+  },
+  {
+    "id": 3,
+    "producto": "CORVINA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "6.00",
+    "precio_actual": ""
+  },
+  {
+    "id": 4,
+    "producto": "ATÚN",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "2.50"
+  },
+  {
+    "id": 5,
+    "producto": "DORADO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "3.50",
+    "precio_actual": "3.00"
+  },
+  {
+    "id": 6,
+    "producto": "PICUDO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "5.00",
+    "precio_actual": "6.00"
+  },
+  {
+    "id": 7,
+    "producto": "ALBACORA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "2.50"
+  },
+  {
+    "id": 8,
+    "producto": "CONCHA",
+    "peso": "CIENTO",
+    "precio_anterior": "16.00",
+    "precio_actual": "20.00"
+  },
+  {
+    "id": 9,
+    "producto": "PARGO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "3.00"
+  },
+  {
+    "id": 10,
+    "producto": "PULPO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.60",
+    "precio_actual": "2.50"
+  },
+  {
+    "id": 11,
+    "producto": "CANGREJO",
+    "peso": "SARTA",
+    "precio_anterior": "17.00",
+    "precio_actual": "18.00"
+  },
+  {
+    "id": 12,
+    "producto": "CALAMAR",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.50",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 13,
+    "producto": "BAGRE",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.50",
+    "precio_actual": "1.80"
+  },
+  {
+    "id": 14,
+    "producto": "TILAPIA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "0.70",
+    "precio_actual": "1.08"
+  },
+  {
+    "id": 15,
+    "producto": "LISA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.00",
+    "precio_actual": "1.50"
+  },
+  {
+    "id": 16,
+    "producto": "ALMEJA",
+    "peso": "SACO",
+    "precio_anterior": "11.00",
+    "precio_actual": "13.00"
+  },
+  {
+    "id": 17,
+    "producto": "ARROBALO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.80",
+    "precio_actual": "2.75"
+  },
+  {
+    "id": 18,
+    "producto": "CHAME",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.50",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 19,
+    "producto": "SIERRA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.25",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 20,
+    "producto": "CAMOTILLO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "3.00",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 21,
+    "producto": "PÁMPANO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.80",
+    "precio_actual": "1.90"
+  },
+  {
+    "id": 22,
+    "producto": "CACHEMA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "1.90"
+  },
+  {
+    "id": 23,
+    "producto": "CARNE DE ESTOFADO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.25",
+    "precio_actual": "2.50"
+  },
+  {
+    "id": 24,
+    "producto": "COSTILLA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.80",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 25,
+    "producto": "POLLO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.20",
+    "precio_actual": "1.10"
+  },
+  {
+    "id": 26,
+    "producto": "HUESO DE RES",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.00",
+    "precio_actual": "1.00"
+  },
+  {
+    "id": 27,
+    "producto": "GUATA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.00",
+    "precio_actual": "2.25"
+  },
+  {
+    "id": 28,
+    "producto": "HÍGADO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.00",
+    "precio_actual": "2.25"
+  },
+  {
+    "id": 29,
+    "producto": "PULPA DE RES",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.00",
+    "precio_actual": "3.00"
+  },
+  {
+    "id": 30,
+    "producto": "CHULETA DE CERDO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "2.50"
+  },
+  {
+    "id": 31,
+    "producto": "CHULETA DE RES",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.80",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 32,
+    "producto": "BORREGO (costilla)",
+    "peso": "1 LIBRA",
+    "precio_anterior": "3.50",
+    "precio_actual": "3.80"
+  },
+  {
+    "id": 33,
+    "producto": "CUERO DE LOMO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.00",
+    "precio_actual": "2.00"
+  },
+  {
+    "id": 34,
+    "producto": "MENÚDO DE CERDO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.30",
+    "precio_actual": "1.25"
+  },
+  {
+    "id": 35,
+    "producto": "CARNE DE CERDO (pierna)",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "2.50"
+  },
+  {
+    "id": 36,
+    "producto": "PULPA DE CERDO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.80",
+    "precio_actual": "2.80"
+  },
+  {
+    "id": 37,
+    "producto": "HUESO DE CERDO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "1.80",
+    "precio_actual": "1.70"
+  },
+  {
+    "id": 38,
+    "producto": "LOMO DE FALDA",
+    "peso": "1 LIBRA",
+    "precio_anterior": "3.50",
+    "precio_actual": "3.75"
+  },
+  {
+    "id": 39,
+    "producto": "LOMO FINO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "4.50",
+    "precio_actual": "5.50"
+  },
+  {
+    "id": 40,
+    "producto": "MENÚDO DE BORREGO",
+    "peso": "1 LIBRA",
+    "precio_anterior": "2.50",
+    "precio_actual": "2.50"
+  }
+]
