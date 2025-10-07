@@ -3,21 +3,21 @@
     "id": 1,
     "producto": "CAMARÓN",
     "peso": "1 LIBRA",
-    "precio_anterior": "2.50",
+    "precio_anterior": "3.50",
     "precio_actual": "3.50"
   },
   {
     "id": 2,
     "producto": "LANGOSTINO",
     "peso": "1 LIBRA",
-    "precio_anterior": "4.00",
+    "precio_anterior": "5.00",
     "precio_actual": ""
   },
   {
     "id": 3,
     "producto": "CORVINA",
     "peso": "1 LIBRA",
-    "precio_anterior": "6.00",
+    "precio_anterior": "7.00",
     "precio_actual": ""
   },
   {
@@ -31,14 +31,14 @@
     "id": 5,
     "producto": "DORADO",
     "peso": "1 LIBRA",
-    "precio_anterior": "3.50",
+    "precio_anterior": "2.80",
     "precio_actual": "3.00"
   },
   {
     "id": 6,
     "producto": "PICUDO",
     "peso": "1 LIBRA",
-    "precio_anterior": "5.00",
+    "precio_anterior": "5.50",
     "precio_actual": "6.00"
   },
   {
@@ -52,21 +52,21 @@
     "id": 8,
     "producto": "CONCHA",
     "peso": "CIENTO",
-    "precio_anterior": "16.00",
+    "precio_anterior": "20.00",
     "precio_actual": "20.00"
   },
   {
     "id": 9,
     "producto": "PARGO",
     "peso": "1 LIBRA",
-    "precio_anterior": "2.50",
+    "precio_anterior": "2.00",
     "precio_actual": "3.00"
   },
   {
     "id": 10,
     "producto": "PULPO",
     "peso": "1 LIBRA",
-    "precio_anterior": "1.60",
+    "precio_anterior": "2.25",
     "precio_actual": "2.50"
   },
   {
@@ -80,42 +80,42 @@
     "id": 12,
     "producto": "CALAMAR",
     "peso": "1 LIBRA",
-    "precio_anterior": "1.50",
+    "precio_anterior": "2.00",
     "precio_actual": "2.00"
   },
   {
     "id": 13,
     "producto": "BAGRE",
     "peso": "1 LIBRA",
-    "precio_anterior": "1.50",
+    "precio_anterior": "1.80",
     "precio_actual": "1.80"
   },
   {
     "id": 14,
     "producto": "TILAPIA",
     "peso": "1 LIBRA",
-    "precio_anterior": "0.70",
+    "precio_anterior": "1.00",
     "precio_actual": "1.08"
   },
   {
     "id": 15,
     "producto": "LISA",
     "peso": "1 LIBRA",
-    "precio_anterior": "1.00",
+    "precio_anterior": "1.50",
     "precio_actual": "1.50"
   },
   {
     "id": 16,
     "producto": "ALMEJA",
     "peso": "SACO",
-    "precio_anterior": "11.00",
+    "precio_anterior": "14.00",
     "precio_actual": "13.00"
   },
   {
     "id": 17,
     "producto": "ARROBALO",
     "peso": "1 LIBRA",
-    "precio_anterior": "2.80",
+    "precio_anterior": "2.50",
     "precio_actual": "2.75"
   },
   {
@@ -129,14 +129,14 @@
     "id": 19,
     "producto": "SIERRA",
     "peso": "1 LIBRA",
-    "precio_anterior": "2.25",
+    "precio_anterior": "2.00",
     "precio_actual": "2.00"
   },
   {
     "id": 20,
     "producto": "CAMOTILLO",
     "peso": "1 LIBRA",
-    "precio_anterior": "3.00",
+    "precio_anterior": "1.80",
     "precio_actual": "2.00"
   },
   {
@@ -150,7 +150,7 @@
     "id": 22,
     "producto": "CACHEMA",
     "peso": "1 LIBRA",
-    "precio_anterior": "2.50",
+    "precio_anterior": "2.25",
     "precio_actual": "1.90"
   },
   {
@@ -186,7 +186,7 @@
     "producto": "GUATA",
     "peso": "1 LIBRA",
     "precio_anterior": "2.00",
-    "precio_actual": "2.25"
+    "precio_actual": "2.80"
   },
   {
     "id": 28,
@@ -249,7 +249,7 @@
     "producto": "PULPA DE CERDO",
     "peso": "1 LIBRA",
     "precio_anterior": "2.80",
-    "precio_actual": "2.80"
+    "precio_actual": "2.50"
   },
   {
     "id": 37,
@@ -263,14 +263,14 @@
     "producto": "LOMO DE FALDA",
     "peso": "1 LIBRA",
     "precio_anterior": "3.50",
-    "precio_actual": "3.75"
+    "precio_actual": "3.80"
   },
   {
     "id": 39,
     "producto": "LOMO FINO",
     "peso": "1 LIBRA",
     "precio_anterior": "4.50",
-    "precio_actual": "5.50"
+    "precio_actual": "5.75"
   },
   {
     "id": 40,

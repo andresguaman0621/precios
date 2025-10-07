@@ -6,9 +6,9 @@
     "nombre_completo": "ACELGA FORDHOOK",
     "tamaño": "",
     "presentacion": "CARGA",
-    "peso_kg": 6.0,
-    "precio_anterior": 2.0,
-    "precio_actual": 2.0
+    "peso_kg": 6,
+    "precio_anterior": 2,
+    "precio_actual": 2.5
   },
   {
     "codigo": 159,
@@ -17,7 +17,7 @@
     "nombre_completo": "ACHOTILLO CRIOLLO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "CAJAS",
-    "peso_kg": 25.0,
+    "peso_kg": 25,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -28,9 +28,9 @@
     "nombre_completo": "AGUACATE GUATEMALTECO DE GUAYLLABAMBA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 70.0,
-    "precio_actual": 70.0
+    "peso_kg": 52,
+    "precio_anterior": 70,
+    "precio_actual": 50
   },
   {
     "codigo": 139,
@@ -39,9 +39,9 @@
     "nombre_completo": "AGUACATE GUATEMALTECO DE GUAYLLABAMBA PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 45.0,
-    "precio_actual": 45.0
+    "peso_kg": 52,
+    "precio_anterior": 45,
+    "precio_actual": 40
   },
   {
     "codigo": 1,
@@ -50,9 +50,9 @@
     "nombre_completo": "AGUACATE GUATEMALTECO DE PATATE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 130.0,
-    "precio_actual": 130.0
+    "peso_kg": 52,
+    "precio_anterior": 130,
+    "precio_actual": 130
   },
   {
     "codigo": 2,
@@ -61,7 +61,7 @@
     "nombre_completo": "AGUACATE GUATEMALTECO DE PATATE PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
+    "peso_kg": 52,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -72,9 +72,9 @@
     "nombre_completo": "AGUACATE GUATEMALTECO DEL NORTE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 55.0,
-    "precio_actual": 43.0
+    "peso_kg": 52,
+    "precio_anterior": 55,
+    "precio_actual": 43
   },
   {
     "codigo": 141,
@@ -83,9 +83,9 @@
     "nombre_completo": "AJÍ AMBATEÑO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 14.0,
-    "precio_anterior": 12.0,
-    "precio_actual": 12.0
+    "peso_kg": 14,
+    "precio_anterior": 12,
+    "precio_actual": 12
   },
   {
     "codigo": 142,
@@ -94,9 +94,9 @@
     "nombre_completo": "AJÍ DEL VALLE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 14.0,
+    "peso_kg": 14,
     "precio_anterior": "",
-    "precio_actual": 12.0
+    "precio_actual": 14
   },
   {
     "codigo": 4,
@@ -105,9 +105,9 @@
     "nombre_completo": "AJO CHINO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "MALLA",
-    "peso_kg": 10.0,
-    "precio_anterior": 16.0,
-    "precio_actual": 16.0
+    "peso_kg": 10,
+    "precio_anterior": 16,
+    "precio_actual": 16
   },
   {
     "codigo": 210,
@@ -116,9 +116,9 @@
     "nombre_completo": "AJO NACIONAL GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 150.0,
-    "precio_actual": 150.0
+    "peso_kg": 45,
+    "precio_anterior": 150,
+    "precio_actual": 150
   },
   {
     "codigo": 5,
@@ -129,7 +129,7 @@
     "presentacion": "FUNDA",
     "peso_kg": 0.5,
     "precio_anterior": 1.25,
-    "precio_actual": 1.25
+    "precio_actual": 1
   },
   {
     "codigo": 6,
@@ -138,9 +138,9 @@
     "nombre_completo": "APIO VERDE",
     "tamaño": "",
     "presentacion": "CARGA",
-    "peso_kg": 12.0,
-    "precio_anterior": 4.0,
-    "precio_actual": 5.0
+    "peso_kg": 12,
+    "precio_anterior": 4,
+    "precio_actual": 5
   },
   {
     "codigo": 160,
@@ -149,9 +149,9 @@
     "nombre_completo": "ARANDANO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 10.0,
-    "precio_anterior": 47.0,
-    "precio_actual": ""
+    "peso_kg": 10,
+    "precio_anterior": 47,
+    "precio_actual": 10
   },
   {
     "codigo": 161,
@@ -160,9 +160,9 @@
     "nombre_completo": "ARANDANO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 12.0,
-    "precio_anterior": 10.0,
-    "precio_actual": ""
+    "peso_kg": 12,
+    "precio_anterior": 10,
+    "precio_actual": 11
   },
   {
     "codigo": 115,
@@ -171,9 +171,9 @@
     "nombre_completo": "ARROZ PILADO ENVEJECIDO ARTIFICIAL",
     "tamaño": "",
     "presentacion": "QUINTAL",
-    "peso_kg": 50.0,
-    "precio_anterior": 47.0,
-    "precio_actual": ""
+    "peso_kg": 50,
+    "precio_anterior": 47,
+    "precio_actual": 48
   },
   {
     "codigo": 116,
@@ -182,9 +182,9 @@
     "nombre_completo": "ARROZ PILADO NATURAL GRANO CORTO",
     "tamaño": "",
     "presentacion": "QUINTAL",
-    "peso_kg": 50.0,
-    "precio_anterior": 40.0,
-    "precio_actual": ""
+    "peso_kg": 50,
+    "precio_anterior": 40,
+    "precio_actual": 50
   },
   {
     "codigo": 209,
@@ -193,9 +193,9 @@
     "nombre_completo": "ARROZ PILADO NATURAL GRANO LARGO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
-    "peso_kg": 50.0,
-    "precio_anterior": 48.0,
-    "precio_actual": ""
+    "peso_kg": 50,
+    "precio_anterior": 48,
+    "precio_actual": 47
   },
   {
     "codigo": 7,
@@ -204,9 +204,9 @@
     "nombre_completo": "ARVEJA BLANCA",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 57.0,
-    "precio_anterior": 45.0,
-    "precio_actual": 45.0
+    "peso_kg": 57,
+    "precio_anterior": 45,
+    "precio_actual": 40
   },
   {
     "codigo": 188,
@@ -215,9 +215,9 @@
     "nombre_completo": "ARVEJA VERDE",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 57.0,
-    "precio_anterior": 34.0,
-    "precio_actual": 30.0
+    "peso_kg": 57,
+    "precio_anterior": 34,
+    "precio_actual": 32
   },
   {
     "codigo": 113,
@@ -226,9 +226,9 @@
     "nombre_completo": "AZÚCAR TABABELA",
     "tamaño": "",
     "presentacion": "QUINTAL",
-    "peso_kg": 50.0,
-    "precio_anterior": 37.0,
-    "precio_actual": ""
+    "peso_kg": 50,
+    "precio_anterior": 37,
+    "precio_actual": 37
   },
   {
     "codigo": 114,
@@ -237,9 +237,9 @@
     "nombre_completo": "AZÚCAR TRONCAL",
     "tamaño": "",
     "presentacion": "QUINTAL",
-    "peso_kg": 50.0,
-    "precio_anterior": 37.0,
-    "precio_actual": ""
+    "peso_kg": 50,
+    "precio_anterior": 37,
+    "precio_actual": 37
   },
   {
     "codigo": 112,
@@ -248,9 +248,9 @@
     "nombre_completo": "AZÚCAR VALDEZ",
     "tamaño": "",
     "presentacion": "QUINTAL",
-    "peso_kg": 50.0,
-    "precio_anterior": 38.0,
-    "precio_actual": ""
+    "peso_kg": 50,
+    "precio_anterior": 38,
+    "precio_actual": 38
   },
   {
     "codigo": 162,
@@ -259,9 +259,9 @@
     "nombre_completo": "BABACO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 20.0,
-    "precio_anterior": 24.0,
-    "precio_actual": ""
+    "peso_kg": 20,
+    "precio_anterior": 24,
+    "precio_actual": 25
   },
   {
     "codigo": 163,
@@ -270,9 +270,9 @@
     "nombre_completo": "BABACO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "CARTON",
-    "peso_kg": 28.0,
-    "precio_anterior": 23.0,
-    "precio_actual": ""
+    "peso_kg": 28,
+    "precio_anterior": 23,
+    "precio_actual": 22
   },
   {
     "codigo": 189,
@@ -283,7 +283,7 @@
     "presentacion": "UNIDAD",
     "peso_kg": 1.5,
     "precio_anterior": 0.4,
-    "precio_actual": 0.4
+    "precio_actual": 0.5
   },
   {
     "codigo": 190,
@@ -294,7 +294,7 @@
     "presentacion": "UNIDAD",
     "peso_kg": 0.5,
     "precio_anterior": 0.4,
-    "precio_actual": 0.4
+    "precio_actual": 0.3
   },
   {
     "codigo": 165,
@@ -303,7 +303,7 @@
     "nombre_completo": "CAPULÍ CHAUCHA NEGRO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "BALDE",
-    "peso_kg": 14.0,
+    "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -314,7 +314,7 @@
     "nombre_completo": "CAPULÍ CHAUCHA ROJO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "BALDE",
-    "peso_kg": 14.0,
+    "peso_kg": 14,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -326,8 +326,8 @@
     "tamaño": "GRANDE",
     "presentacion": "ATADO",
     "peso_kg": 1.5,
-    "precio_anterior": 1.0,
-    "precio_actual": 1.1
+    "precio_anterior": 1,
+    "precio_actual": 0.8
   },
   {
     "codigo": 13,
@@ -348,8 +348,8 @@
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
     "peso_kg": 45.5,
-    "precio_anterior": 27.0,
-    "precio_actual": 28.0
+    "precio_anterior": 27,
+    "precio_actual": 27
   },
   {
     "codigo": 10,
@@ -359,8 +359,8 @@
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
     "peso_kg": 45.5,
-    "precio_anterior": 25.0,
-    "precio_actual": ""
+    "precio_anterior": 25,
+    "precio_actual": 23
   },
   {
     "codigo": 11,
@@ -370,8 +370,8 @@
     "tamaño": "PAREJA",
     "presentacion": "QUINTAL",
     "peso_kg": 45.5,
-    "precio_anterior": 8.0,
-    "precio_actual": ""
+    "precio_anterior": 8,
+    "precio_actual": 20
   },
   {
     "codigo": 12,
@@ -381,8 +381,8 @@
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
     "peso_kg": 45.5,
-    "precio_anterior": 28.0,
-    "precio_actual": 23.0
+    "precio_anterior": 28,
+    "precio_actual": 27
   },
   {
     "codigo": 144,
@@ -392,8 +392,8 @@
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
     "peso_kg": 45.5,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 147,
@@ -402,9 +402,9 @@
     "nombre_completo": "CEBOLLA PUERRO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "ATADO",
-    "peso_kg": 5.0,
+    "peso_kg": 5,
     "precio_anterior": 3.5,
-    "precio_actual": 3.5
+    "precio_actual": 5
   },
   {
     "codigo": 166,
@@ -413,9 +413,9 @@
     "nombre_completo": "CHIRIMOYA VERDE PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CARTON",
-    "peso_kg": 21.0,
-    "precio_anterior": 24.0,
-    "precio_actual": ""
+    "peso_kg": 21,
+    "precio_anterior": 24,
+    "precio_actual": 19
   },
   {
     "codigo": 148,
@@ -424,9 +424,9 @@
     "nombre_completo": "CHOCLO BLANCO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 45.0,
-    "precio_anterior": 18.0,
-    "precio_actual": 20.0
+    "peso_kg": 45,
+    "precio_anterior": 18,
+    "precio_actual": 18
   },
   {
     "codigo": 149,
@@ -435,9 +435,9 @@
     "nombre_completo": "CHOCLO BLANCO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 45.0,
-    "precio_anterior": 16.0,
-    "precio_actual": 17.0
+    "peso_kg": 45,
+    "precio_anterior": 16,
+    "precio_actual": 16
   },
   {
     "codigo": 15,
@@ -446,7 +446,7 @@
     "nombre_completo": "CHOCLOS AMARILLO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 45.0,
+    "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -457,7 +457,7 @@
     "nombre_completo": "CHOCLOS AMARILLO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 45.0,
+    "peso_kg": 45,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -468,9 +468,9 @@
     "nombre_completo": "CLAUDIA MANGO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 14.0,
-    "precio_anterior": 28.0,
-    "precio_actual": ""
+    "peso_kg": 14,
+    "precio_anterior": 28,
+    "precio_actual": 25
   },
   {
     "codigo": 167,
@@ -479,9 +479,9 @@
     "nombre_completo": "CLAUDIA MIRABEL GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 14.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 14,
+    "precio_anterior": 20,
+    "precio_actual": 15
   },
   {
     "codigo": 50,
@@ -492,7 +492,7 @@
     "presentacion": "UNITARIO",
     "peso_kg": 0.7,
     "precio_anterior": 1.75,
-    "precio_actual": ""
+    "precio_actual": 1.5
   },
   {
     "codigo": 51,
@@ -502,8 +502,8 @@
     "tamaño": "PAREJO",
     "presentacion": "UNITARIO",
     "peso_kg": 0.4,
-    "precio_anterior": 1.0,
-    "precio_actual": ""
+    "precio_anterior": 1,
+    "precio_actual": 1.25
   },
   {
     "codigo": 52,
@@ -512,9 +512,9 @@
     "nombre_completo": "COCO TIERNO",
     "tamaño": "",
     "presentacion": "UNITARIO",
-    "peso_kg": 3.0,
-    "precio_anterior": 1.0,
-    "precio_actual": ""
+    "peso_kg": 3,
+    "precio_anterior": 1,
+    "precio_actual": 1
   },
   {
     "codigo": 17,
@@ -523,9 +523,9 @@
     "nombre_completo": "COL DE MILÁN GRANDES",
     "tamaño": "GRANDES",
     "presentacion": "UNIDAD",
-    "peso_kg": 4.0,
-    "precio_anterior": 1.0,
-    "precio_actual": 1.0
+    "peso_kg": 4,
+    "precio_anterior": 1,
+    "precio_actual": 1
   },
   {
     "codigo": 18,
@@ -534,9 +534,9 @@
     "nombre_completo": "COL DE MILÁN PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "UNIDAD",
-    "peso_kg": 2.0,
+    "peso_kg": 2,
     "precio_anterior": 0.5,
-    "precio_actual": ""
+    "precio_actual": 0.5
   },
   {
     "codigo": 150,
@@ -545,9 +545,9 @@
     "nombre_completo": "COL DE MILÁN PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "SACO",
-    "peso_kg": 44.0,
-    "precio_anterior": 5.0,
-    "precio_actual": 6.0
+    "peso_kg": 44,
+    "precio_anterior": 5,
+    "precio_actual": 6
   },
   {
     "codigo": 19,
@@ -556,9 +556,9 @@
     "nombre_completo": "COL MORADA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "UNIDAD",
-    "peso_kg": 3.0,
+    "peso_kg": 3,
     "precio_anterior": 0.5,
-    "precio_actual": 0.5
+    "precio_actual": 0.4
   },
   {
     "codigo": 194,
@@ -567,9 +567,9 @@
     "nombre_completo": "COL MORADA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "SACO",
-    "peso_kg": 0.0,
-    "precio_anterior": 6.0,
-    "precio_actual": ""
+    "peso_kg": 0,
+    "precio_anterior": 6,
+    "precio_actual": 5
   },
   {
     "codigo": 20,
@@ -580,7 +580,7 @@
     "presentacion": "UNIDAD",
     "peso_kg": 1.5,
     "precio_anterior": 0.5,
-    "precio_actual": ""
+    "precio_actual": 0.8
   },
   {
     "codigo": 197,
@@ -589,8 +589,8 @@
     "nombre_completo": "COLIFLOR SNOW BALL",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 0.0,
-    "precio_anterior": 6.0,
+    "peso_kg": 0,
+    "precio_anterior": 6,
     "precio_actual": ""
   },
   {
@@ -600,9 +600,9 @@
     "nombre_completo": "CULANTRO ANITA",
     "tamaño": "",
     "presentacion": "CARGA",
-    "peso_kg": 10.0,
-    "precio_anterior": 6.0,
-    "precio_actual": 7.0
+    "peso_kg": 10,
+    "precio_anterior": 6,
+    "precio_actual": 6
   },
   {
     "codigo": 53,
@@ -611,9 +611,9 @@
     "nombre_completo": "DURAZNO DE LA SIERRA",
     "tamaño": "",
     "presentacion": "GAVETAS",
-    "peso_kg": 24.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 24,
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 151,
@@ -622,7 +622,7 @@
     "nombre_completo": "ESPINACA SAVOY",
     "tamaño": "",
     "presentacion": "FUNDA",
-    "peso_kg": 12.0,
+    "peso_kg": 12,
     "precio_anterior": 6.5,
     "precio_actual": ""
   },
@@ -633,9 +633,9 @@
     "nombre_completo": "FRÍJOL BLANCO",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 46.0,
-    "precio_anterior": 38.0,
-    "precio_actual": 50.0
+    "peso_kg": 46,
+    "precio_anterior": 38,
+    "precio_actual": 35
   },
   {
     "codigo": 21,
@@ -644,9 +644,9 @@
     "nombre_completo": "FRÍJOL BOLA ROJA",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 46.0,
-    "precio_anterior": 50.0,
-    "precio_actual": 50.0
+    "peso_kg": 46,
+    "precio_anterior": 50,
+    "precio_actual": 50
   },
   {
     "codigo": 22,
@@ -655,9 +655,9 @@
     "nombre_completo": "FRÍJOL CARGA BELLO",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 46.0,
-    "precio_anterior": 38.0,
-    "precio_actual": 40.0
+    "peso_kg": 46,
+    "precio_anterior": 38,
+    "precio_actual": 40
   },
   {
     "codigo": 171,
@@ -666,9 +666,9 @@
     "nombre_completo": "FRUTA CHINA AMARILLA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 23.0,
-    "precio_anterior": 12.0,
-    "precio_actual": ""
+    "peso_kg": 23,
+    "precio_anterior": 12,
+    "precio_actual": 10
   },
   {
     "codigo": 54,
@@ -677,9 +677,9 @@
     "nombre_completo": "FRUTILLA MONTERRY GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "BALDE",
-    "peso_kg": 13.0,
-    "precio_anterior": 28.0,
-    "precio_actual": ""
+    "peso_kg": 13,
+    "precio_anterior": 28,
+    "precio_actual": 22
   },
   {
     "codigo": 55,
@@ -689,8 +689,8 @@
     "tamaño": "PAREJA",
     "presentacion": "BALDE",
     "peso_kg": 12.5,
-    "precio_anterior": 13.0,
-    "precio_actual": ""
+    "precio_anterior": 13,
+    "precio_actual": 10
   },
   {
     "codigo": 56,
@@ -700,8 +700,8 @@
     "tamaño": "PEQUEÑA",
     "presentacion": "BALDE",
     "peso_kg": 11.5,
-    "precio_anterior": 6.0,
-    "precio_actual": ""
+    "precio_anterior": 6,
+    "precio_actual": 7
   },
   {
     "codigo": 57,
@@ -710,9 +710,9 @@
     "nombre_completo": "GRANADILLA AMARILLA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 18.0,
-    "precio_anterior": 24.0,
-    "precio_actual": ""
+    "peso_kg": 18,
+    "precio_anterior": 24,
+    "precio_actual": 14
   },
   {
     "codigo": 58,
@@ -721,9 +721,9 @@
     "nombre_completo": "GRANADILLA AMARILLA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CARTON",
-    "peso_kg": 18.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 18,
+    "precio_anterior": 20,
+    "precio_actual": 12
   },
   {
     "codigo": 170,
@@ -732,9 +732,9 @@
     "nombre_completo": "GROSELLA VERDE",
     "tamaño": "",
     "presentacion": "CAJAS",
-    "peso_kg": 18.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 18,
+    "precio_anterior": 20,
+    "precio_actual": 17
   },
   {
     "codigo": 59,
@@ -754,9 +754,9 @@
     "nombre_completo": "GUAYABAS PULPA ROSADA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 12.0,
-    "precio_anterior": 11.0,
-    "precio_actual": 11.0
+    "peso_kg": 12,
+    "precio_anterior": 11,
+    "precio_actual": 11
   },
   {
     "codigo": 23,
@@ -765,9 +765,9 @@
     "nombre_completo": "HABAS COMUN GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 37.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 20.0
+    "peso_kg": 37,
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 24,
@@ -776,9 +776,9 @@
     "nombre_completo": "HABAS COMÚN PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "SACO",
-    "peso_kg": 37.0,
-    "precio_anterior": 18.0,
-    "precio_actual": 18.0
+    "peso_kg": 37,
+    "precio_anterior": 18,
+    "precio_actual": 17
   },
   {
     "codigo": 172,
@@ -787,7 +787,7 @@
     "nombre_completo": "HIGO",
     "tamaño": "",
     "presentacion": "FUNDA",
-    "peso_kg": 20.0,
+    "peso_kg": 20,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -798,7 +798,7 @@
     "nombre_completo": "HUEVOS GRANDES",
     "tamaño": "GRANDES",
     "presentacion": "CUBETA (30 UNIDADES)",
-    "peso_kg": 0.0,
+    "peso_kg": 0,
     "precio_anterior": 3.5,
     "precio_actual": 3.5
   },
@@ -809,7 +809,7 @@
     "nombre_completo": "HUEVOS MEDIANOS",
     "tamaño": "MEDIANOS",
     "presentacion": "CUBETA (30 UNIDADES)",
-    "peso_kg": 0.0,
+    "peso_kg": 0,
     "precio_anterior": 3.3,
     "precio_actual": 3.3
   },
@@ -820,9 +820,9 @@
     "nombre_completo": "HUEVOS PEQUEÑO",
     "tamaño": "PEQUEÑO",
     "presentacion": "CUBETA (30 UNIDADES)",
-    "peso_kg": 0.0,
+    "peso_kg": 0,
     "precio_anterior": 2.75,
-    "precio_actual": 3.0
+    "precio_actual": 3
   },
   {
     "codigo": 61,
@@ -831,9 +831,9 @@
     "nombre_completo": "KIWI GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "FUNDA",
-    "peso_kg": 5.0,
-    "precio_anterior": 12.0,
-    "precio_actual": ""
+    "peso_kg": 5,
+    "precio_anterior": 12,
+    "precio_actual": 12
   },
   {
     "codigo": 62,
@@ -842,9 +842,9 @@
     "nombre_completo": "KIWI PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CARTON",
-    "peso_kg": 10.0,
-    "precio_anterior": 35.0,
-    "precio_actual": ""
+    "peso_kg": 10,
+    "precio_anterior": 35,
+    "precio_actual": 38
   },
   {
     "codigo": 26,
@@ -853,9 +853,9 @@
     "nombre_completo": "LECHUGA ESCAROLA",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 20.0,
+    "peso_kg": 20,
     "precio_anterior": 3.5,
-    "precio_actual": ""
+    "precio_actual": 20
   },
   {
     "codigo": 25,
@@ -864,9 +864,9 @@
     "nombre_completo": "LECHUGA ICEBERG",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 22.0,
-    "precio_anterior": 4.0,
-    "precio_actual": 4.0
+    "peso_kg": 22,
+    "precio_anterior": 4,
+    "precio_actual": 20
   },
   {
     "codigo": 28,
@@ -875,9 +875,9 @@
     "nombre_completo": "LIMÓN MEYER GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "MALLA",
-    "peso_kg": 34.0,
-    "precio_anterior": 40.0,
-    "precio_actual": 22.0
+    "peso_kg": 34,
+    "precio_anterior": 40,
+    "precio_actual": 20
   },
   {
     "codigo": 195,
@@ -886,9 +886,9 @@
     "nombre_completo": "LIMÓN MEYER PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "MALLA",
-    "peso_kg": 32.0,
-    "precio_anterior": 22.0,
-    "precio_actual": 18.0
+    "peso_kg": 32,
+    "precio_anterior": 22,
+    "precio_actual": 20
   },
   {
     "codigo": 27,
@@ -897,9 +897,9 @@
     "nombre_completo": "LIMÓN SUTÍL MANABA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "MALLA",
-    "peso_kg": 36.0,
-    "precio_anterior": 52.0,
-    "precio_actual": ""
+    "peso_kg": 36,
+    "precio_anterior": 52,
+    "precio_actual": 48
   },
   {
     "codigo": 154,
@@ -908,9 +908,9 @@
     "nombre_completo": "LIMÓN SUTÍL PERUANO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "MALLA",
-    "peso_kg": 38.0,
-    "precio_anterior": 53.0,
-    "precio_actual": ""
+    "peso_kg": 38,
+    "precio_anterior": 53,
+    "precio_actual": 35
   },
   {
     "codigo": 29,
@@ -919,8 +919,8 @@
     "nombre_completo": "LIMÓN SUTÍL TAHITÍ GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "MALLA",
-    "peso_kg": 68.0,
-    "precio_anterior": 70.0,
+    "peso_kg": 68,
+    "precio_anterior": 70,
     "precio_actual": ""
   },
   {
@@ -930,9 +930,9 @@
     "nombre_completo": "MANDARINAS CHONERA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CIENTO",
-    "peso_kg": 22.0,
+    "peso_kg": 22,
     "precio_anterior": 7.5,
-    "precio_actual": 7.0
+    "precio_actual": 7
   },
   {
     "codigo": 64,
@@ -941,9 +941,9 @@
     "nombre_completo": "MANDARINAS CHONERA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CIENTO",
-    "peso_kg": 22.0,
-    "precio_anterior": 5.0,
-    "precio_actual": 5.0
+    "peso_kg": 22,
+    "precio_anterior": 5,
+    "precio_actual": 5
   },
   {
     "codigo": 68,
@@ -952,9 +952,9 @@
     "nombre_completo": "MANDARINAS ISABELINA SIN PEPA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 17.0,
-    "precio_anterior": 17.0,
-    "precio_actual": ""
+    "peso_kg": 17,
+    "precio_anterior": 17,
+    "precio_actual": 18
   },
   {
     "codigo": 65,
@@ -963,9 +963,9 @@
     "nombre_completo": "MANDARINAS KING GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CIENTO",
-    "peso_kg": 26.0,
-    "precio_anterior": 10.0,
-    "precio_actual": 10.0
+    "peso_kg": 26,
+    "precio_anterior": 10,
+    "precio_actual": 10
   },
   {
     "codigo": 66,
@@ -974,9 +974,9 @@
     "nombre_completo": "MANDARINAS KING PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CIENTO",
-    "peso_kg": 20.0,
-    "precio_anterior": 5.0,
-    "precio_actual": 5.0
+    "peso_kg": 20,
+    "precio_anterior": 5,
+    "precio_actual": 6
   },
   {
     "codigo": 67,
@@ -985,9 +985,9 @@
     "nombre_completo": "MANDARINAS MANDARINA DE LA SIERRA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CIENTO",
-    "peso_kg": 22.0,
-    "precio_anterior": 8.0,
-    "precio_actual": ""
+    "peso_kg": 22,
+    "precio_anterior": 8,
+    "precio_actual": 12
   },
   {
     "codigo": 174,
@@ -996,7 +996,7 @@
     "nombre_completo": "MANGO DE CHUPAR PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "CAJAS",
-    "peso_kg": 0.0,
+    "peso_kg": 0,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -1007,9 +1007,9 @@
     "nombre_completo": "MANGO TOMMY PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "MALLA",
-    "peso_kg": 33.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 33,
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 173,
@@ -1018,9 +1018,9 @@
     "nombre_completo": "MANGO TOMMY PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "GAVETAS",
-    "peso_kg": 27.0,
-    "precio_anterior": 25.0,
-    "precio_actual": ""
+    "peso_kg": 27,
+    "precio_anterior": 25,
+    "precio_actual": 20
   },
   {
     "codigo": 132,
@@ -1029,9 +1029,9 @@
     "nombre_completo": "MANZANA DE COLADA EMILIA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 21.0,
-    "precio_anterior": 26.0,
-    "precio_actual": ""
+    "peso_kg": 21,
+    "precio_anterior": 26,
+    "precio_actual": 26
   },
   {
     "codigo": 70,
@@ -1040,9 +1040,9 @@
     "nombre_completo": "MANZANAS ROYAL GALA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 22.0,
-    "precio_anterior": 30.0,
-    "precio_actual": ""
+    "peso_kg": 22,
+    "precio_anterior": 30,
+    "precio_actual": 35
   },
   {
     "codigo": 71,
@@ -1051,9 +1051,9 @@
     "nombre_completo": "MANZANAS ROYAL GALA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CARTON",
-    "peso_kg": 22.0,
-    "precio_anterior": 27.0,
-    "precio_actual": ""
+    "peso_kg": 22,
+    "precio_anterior": 27,
+    "precio_actual": 29
   },
   {
     "codigo": 72,
@@ -1062,9 +1062,9 @@
     "nombre_completo": "MANZANAS VERDE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 21.0,
-    "precio_anterior": 35.0,
-    "precio_actual": ""
+    "peso_kg": 21,
+    "precio_anterior": 35,
+    "precio_actual": 34
   },
   {
     "codigo": 73,
@@ -1073,9 +1073,9 @@
     "nombre_completo": "MANZANAS VERDE PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CARTON",
-    "peso_kg": 21.0,
-    "precio_anterior": 36.0,
-    "precio_actual": ""
+    "peso_kg": 21,
+    "precio_anterior": 36,
+    "precio_actual": 32
   },
   {
     "codigo": 74,
@@ -1084,9 +1084,9 @@
     "nombre_completo": "MARACUYÁ AMARILLA",
     "tamaño": "",
     "presentacion": "FUNDA",
-    "peso_kg": 18.0,
-    "precio_anterior": 15.0,
-    "precio_actual": 15.0
+    "peso_kg": 18,
+    "precio_anterior": 15,
+    "precio_actual": 8
   },
   {
     "codigo": 30,
@@ -1095,9 +1095,9 @@
     "nombre_completo": "MELLOCO AMARILLO CREMOSO",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 16.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 20.0
+    "peso_kg": 16,
+    "precio_anterior": 20,
+    "precio_actual": 15
   },
   {
     "codigo": 196,
@@ -1106,9 +1106,9 @@
     "nombre_completo": "MELLOCO AMARILLO CREMOSO",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 55.0,
-    "precio_actual": 20.0
+    "peso_kg": 30,
+    "precio_anterior": 55,
+    "precio_actual": 20
   },
   {
     "codigo": 75,
@@ -1117,9 +1117,9 @@
     "nombre_completo": "MELÓN CANTALOUP GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "UNIDAD",
-    "peso_kg": 3.0,
-    "precio_anterior": 2.0,
-    "precio_actual": ""
+    "peso_kg": 3,
+    "precio_anterior": 2,
+    "precio_actual": 2.5
   },
   {
     "codigo": 76,
@@ -1128,9 +1128,9 @@
     "nombre_completo": "MELÓN CANTALOUP PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "UNIDAD",
-    "peso_kg": 2.0,
+    "peso_kg": 2,
     "precio_anterior": 0.8,
-    "precio_actual": ""
+    "precio_actual": 1.5
   },
   {
     "codigo": 77,
@@ -1139,9 +1139,9 @@
     "nombre_completo": "MELÓN CANTALOUP PEQUEÑA",
     "tamaño": "PEQUEÑA",
     "presentacion": "UNIDAD",
-    "peso_kg": 1.0,
+    "peso_kg": 1,
     "precio_anterior": 0.4,
-    "precio_actual": ""
+    "precio_actual": 1
   },
   {
     "codigo": 79,
@@ -1151,8 +1151,8 @@
     "tamaño": "",
     "presentacion": "BALDE",
     "peso_kg": 6.5,
-    "precio_anterior": 12.0,
-    "precio_actual": ""
+    "precio_anterior": 12,
+    "precio_actual": 12
   },
   {
     "codigo": 78,
@@ -1161,9 +1161,9 @@
     "nombre_completo": "MORA DE CASTILLA IBAREÑA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CANASTA",
-    "peso_kg": 9.0,
-    "precio_anterior": 15.0,
-    "precio_actual": ""
+    "peso_kg": 9,
+    "precio_anterior": 15,
+    "precio_actual": 10
   },
   {
     "codigo": 200,
@@ -1172,9 +1172,9 @@
     "nombre_completo": "MORA DE CASTILLA IBAREÑA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "CANASTA",
-    "peso_kg": 7.0,
-    "precio_anterior": 12.0,
-    "precio_actual": ""
+    "peso_kg": 7,
+    "precio_anterior": 12,
+    "precio_actual": 9
   },
   {
     "codigo": 176,
@@ -1183,9 +1183,9 @@
     "nombre_completo": "MORTIÑO",
     "tamaño": "",
     "presentacion": "BALDE",
-    "peso_kg": 10.0,
-    "precio_anterior": 50.0,
-    "precio_actual": ""
+    "peso_kg": 10,
+    "precio_anterior": 50,
+    "precio_actual": 60
   },
   {
     "codigo": 155,
@@ -1194,9 +1194,9 @@
     "nombre_completo": "NABO CHINO NABO DE HOJA",
     "tamaño": "",
     "presentacion": "CARGA",
-    "peso_kg": 3.0,
-    "precio_anterior": 3.0,
-    "precio_actual": ""
+    "peso_kg": 3,
+    "precio_anterior": 3,
+    "precio_actual": 3.5
   },
   {
     "codigo": 80,
@@ -1205,9 +1205,9 @@
     "nombre_completo": "NARANJA COMÚN GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 100.0,
-    "precio_anterior": 6.0,
-    "precio_actual": 6.0
+    "peso_kg": 100,
+    "precio_anterior": 6,
+    "precio_actual": 6
   },
   {
     "codigo": 125,
@@ -1216,9 +1216,9 @@
     "nombre_completo": "NARANJA TANGELO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 12.0,
-    "precio_actual": 12.0
+    "peso_kg": 52,
+    "precio_anterior": 12,
+    "precio_actual": 11
   },
   {
     "codigo": 83,
@@ -1227,9 +1227,9 @@
     "nombre_completo": "NARANJILLA COLADA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 42.0,
-    "precio_actual": 42.0
+    "peso_kg": 52,
+    "precio_anterior": 42,
+    "precio_actual": 42
   },
   {
     "codigo": 84,
@@ -1238,9 +1238,9 @@
     "nombre_completo": "NARANJILLA COLADA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "SACO",
-    "peso_kg": 52.0,
-    "precio_anterior": 35.0,
-    "precio_actual": 35.0
+    "peso_kg": 52,
+    "precio_anterior": 35,
+    "precio_actual": 35
   },
   {
     "codigo": 81,
@@ -1249,9 +1249,9 @@
     "nombre_completo": "NARANJILLA JUGO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 24.0,
-    "precio_actual": 24.0
+    "peso_kg": 30,
+    "precio_anterior": 24,
+    "precio_actual": 24
   },
   {
     "codigo": 82,
@@ -1260,9 +1260,9 @@
     "nombre_completo": "NARANJILLA JUGO PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 20.0
+    "peso_kg": 30,
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 177,
@@ -1271,9 +1271,9 @@
     "nombre_completo": "OVO VERDE- ROJO",
     "tamaño": "",
     "presentacion": "CAJAS",
-    "peso_kg": 10.0,
-    "precio_anterior": 26.0,
-    "precio_actual": ""
+    "peso_kg": 10,
+    "precio_anterior": 26,
+    "precio_actual": 15
   },
   {
     "codigo": 31,
@@ -1282,9 +1282,9 @@
     "nombre_completo": "PAPANABO PURPLE WHITE",
     "tamaño": "",
     "presentacion": "ATADO",
-    "peso_kg": 3.0,
-    "precio_anterior": 1.0,
-    "precio_actual": ""
+    "peso_kg": 3,
+    "precio_anterior": 1,
+    "precio_actual": 1
   },
   {
     "codigo": 127,
@@ -1293,9 +1293,9 @@
     "nombre_completo": "PAPAS CHAUCHA AMARILLA",
     "tamaño": "",
     "presentacion": "MALLA",
-    "peso_kg": 5.0,
-    "precio_anterior": 5.0,
-    "precio_actual": 7.0
+    "peso_kg": 5,
+    "precio_anterior": 5,
+    "precio_actual": 6
   },
   {
     "codigo": 203,
@@ -1304,9 +1304,9 @@
     "nombre_completo": "PAPAS CHAUCHA AMARILLA",
     "tamaño": "",
     "presentacion": "MALLA",
-    "peso_kg": 20.0,
-    "precio_anterior": 15.0,
-    "precio_actual": 15.0
+    "peso_kg": 20,
+    "precio_anterior": 15,
+    "precio_actual": 15
   },
   {
     "codigo": 119,
@@ -1315,9 +1315,9 @@
     "nombre_completo": "PAPAS CHAUCHA BLANCA",
     "tamaño": "",
     "presentacion": "MALLA",
-    "peso_kg": 5.0,
-    "precio_anterior": 5.0,
-    "precio_actual": 5.0
+    "peso_kg": 5,
+    "precio_anterior": 5,
+    "precio_actual": 5
   },
   {
     "codigo": 204,
@@ -1326,9 +1326,9 @@
     "nombre_completo": "PAPAS CHAUCHA BLANCA",
     "tamaño": "",
     "presentacion": "MALLA",
-    "peso_kg": 20.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 24.0
+    "peso_kg": 20,
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 205,
@@ -1337,9 +1337,9 @@
     "nombre_completo": "PAPAS CHAUCHA BLANCA",
     "tamaño": "",
     "presentacion": "MALLA",
-    "peso_kg": 15.0,
-    "precio_anterior": 12.0,
-    "precio_actual": 15.0
+    "peso_kg": 15,
+    "precio_anterior": 12,
+    "precio_actual": 15
   },
   {
     "codigo": 122,
@@ -1348,9 +1348,9 @@
     "nombre_completo": "PAPAS PERA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 12.0
+    "peso_kg": 45,
+    "precio_anterior": 20,
+    "precio_actual": 18
   },
   {
     "codigo": 202,
@@ -1359,9 +1359,9 @@
     "nombre_completo": "PAPAS SUPERCHOLA CHAUPI",
     "tamaño": "CHAUPI",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 32.0,
-    "precio_actual": 32.0
+    "peso_kg": 45,
+    "precio_anterior": 32,
+    "precio_actual": 35
   },
   {
     "codigo": 117,
@@ -1370,9 +1370,9 @@
     "nombre_completo": "PAPAS SUPERCHOLA GRUESA",
     "tamaño": "GRUESA",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 29.0,
-    "precio_actual": 25.0
+    "peso_kg": 45,
+    "precio_anterior": 29,
+    "precio_actual": 29
   },
   {
     "codigo": 118,
@@ -1381,9 +1381,9 @@
     "nombre_completo": "PAPAS SUPERCHOLA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 27.0,
-    "precio_actual": 15.0
+    "peso_kg": 45,
+    "precio_anterior": 27,
+    "precio_actual": 24
   },
   {
     "codigo": 120,
@@ -1392,9 +1392,9 @@
     "nombre_completo": "PAPAS SUPERCHOLA PEQUEÑA",
     "tamaño": "PEQUEÑA",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 18.0,
-    "precio_actual": 6.0
+    "peso_kg": 45,
+    "precio_anterior": 18,
+    "precio_actual": 5
   },
   {
     "codigo": 121,
@@ -1403,9 +1403,9 @@
     "nombre_completo": "PAPAS ÚNICA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "QUINTAL",
-    "peso_kg": 45.0,
-    "precio_anterior": 15.0,
-    "precio_actual": 12.0
+    "peso_kg": 45,
+    "precio_anterior": 15,
+    "precio_actual": 10
   },
   {
     "codigo": 85,
@@ -1414,9 +1414,9 @@
     "nombre_completo": "PAPAYA CAMILA ALARGADA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 25.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 20.0
+    "peso_kg": 25,
+    "precio_anterior": 20,
+    "precio_actual": 12
   },
   {
     "codigo": 178,
@@ -1425,9 +1425,9 @@
     "nombre_completo": "PAPAYA CAMILLA REDONDA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 20.0,
-    "precio_anterior": 8.0,
-    "precio_actual": 8.0
+    "peso_kg": 20,
+    "precio_anterior": 8,
+    "precio_actual": 7
   },
   {
     "codigo": 86,
@@ -1436,9 +1436,9 @@
     "nombre_completo": "PAPAYA HAWUAIANA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 11.0,
-    "precio_anterior": 6.0,
-    "precio_actual": 6.0
+    "peso_kg": 11,
+    "precio_anterior": 6,
+    "precio_actual": 5
   },
   {
     "codigo": 33,
@@ -1447,8 +1447,8 @@
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO AMBATEÑO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 28.0,
-    "precio_anterior": 18.0,
+    "peso_kg": 28,
+    "precio_anterior": 18,
     "precio_actual": ""
   },
   {
@@ -1458,9 +1458,9 @@
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO AMBATEÑO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 29.0,
-    "precio_anterior": 16.0,
-    "precio_actual": ""
+    "peso_kg": 29,
+    "precio_anterior": 16,
+    "precio_actual": 14
   },
   {
     "codigo": 156,
@@ -1469,9 +1469,9 @@
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO DEL VALLE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 29.0,
-    "precio_anterior": 18.0,
-    "precio_actual": 17.0
+    "peso_kg": 29,
+    "precio_anterior": 18,
+    "precio_actual": 17
   },
   {
     "codigo": 157,
@@ -1480,9 +1480,9 @@
     "nombre_completo": "PEPINILLO HÍBRIDO MEDIO LARGO DEL VALLE PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 29.0,
-    "precio_anterior": 16.0,
-    "precio_actual": 17.0
+    "peso_kg": 29,
+    "precio_anterior": 16,
+    "precio_actual": 17
   },
   {
     "codigo": 179,
@@ -1491,9 +1491,9 @@
     "nombre_completo": "PEPINO DULCE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CAJAS",
-    "peso_kg": 20.0,
-    "precio_anterior": 10.0,
-    "precio_actual": 14.0
+    "peso_kg": 20,
+    "precio_anterior": 10,
+    "precio_actual": 12
   },
   {
     "codigo": 180,
@@ -1502,7 +1502,7 @@
     "nombre_completo": "PERAS AMBATEÑA CIRUELA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 16.0,
+    "peso_kg": 16,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -1513,9 +1513,9 @@
     "nombre_completo": "PERAS FUREL GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 18.0,
-    "precio_anterior": 26.0,
-    "precio_actual": ""
+    "peso_kg": 18,
+    "precio_anterior": 26,
+    "precio_actual": 27
   },
   {
     "codigo": 87,
@@ -1524,9 +1524,9 @@
     "nombre_completo": "PERAS VERDE GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 18.0,
-    "precio_anterior": 32.0,
-    "precio_actual": ""
+    "peso_kg": 18,
+    "precio_anterior": 32,
+    "precio_actual": 29
   },
   {
     "codigo": 34,
@@ -1535,9 +1535,9 @@
     "nombre_completo": "PEREJIL",
     "tamaño": "",
     "presentacion": "CARGA",
-    "peso_kg": 13.0,
-    "precio_anterior": 7.0,
-    "precio_actual": 6.0
+    "peso_kg": 13,
+    "precio_anterior": 7,
+    "precio_actual": 6
   },
   {
     "codigo": 36,
@@ -1546,9 +1546,9 @@
     "nombre_completo": "PIMIENTO AMARILLO",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 11.0,
-    "precio_anterior": 22.0,
-    "precio_actual": 15.0
+    "peso_kg": 11,
+    "precio_anterior": 22,
+    "precio_actual": 15
   },
   {
     "codigo": 37,
@@ -1557,9 +1557,9 @@
     "nombre_completo": "PIMIENTO ROJO",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 11.0,
-    "precio_anterior": 22.0,
-    "precio_actual": 15.0
+    "peso_kg": 11,
+    "precio_anterior": 22,
+    "precio_actual": 15
   },
   {
     "codigo": 35,
@@ -1568,9 +1568,9 @@
     "nombre_completo": "PIMIENTO VERDE",
     "tamaño": "",
     "presentacion": "SACO",
-    "peso_kg": 16.0,
-    "precio_anterior": 14.0,
-    "precio_actual": 12.0
+    "peso_kg": 16,
+    "precio_anterior": 14,
+    "precio_actual": 12
   },
   {
     "codigo": 88,
@@ -1590,9 +1590,9 @@
     "nombre_completo": "PIÑA MD2 MEDIANA",
     "tamaño": "MEDIANA",
     "presentacion": "UNIDAD",
-    "peso_kg": 2.0,
+    "peso_kg": 2,
     "precio_anterior": 0.9,
-    "precio_actual": 0.9
+    "precio_actual": 0.8
   },
   {
     "codigo": 90,
@@ -1603,7 +1603,7 @@
     "presentacion": "UNIDAD",
     "peso_kg": 1.4,
     "precio_anterior": 0.6,
-    "precio_actual": 0.6
+    "precio_actual": 0.5
   },
   {
     "codigo": 92,
@@ -1612,9 +1612,9 @@
     "nombre_completo": "PITHAJAYA AMARILLA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "GAVETAS",
-    "peso_kg": 23.0,
-    "precio_anterior": 40.0,
-    "precio_actual": ""
+    "peso_kg": 23,
+    "precio_anterior": 40,
+    "precio_actual": 50
   },
   {
     "codigo": 91,
@@ -1623,9 +1623,9 @@
     "nombre_completo": "PITHAJAYA ROJA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CIENTO",
-    "peso_kg": 36.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 36,
+    "precio_anterior": 20,
+    "precio_actual": 18
   },
   {
     "codigo": 95,
@@ -1634,9 +1634,9 @@
     "nombre_completo": "PLÁTANO BARRAGANETE MADURO",
     "tamaño": "",
     "presentacion": "RACIMO",
-    "peso_kg": 16.0,
-    "precio_anterior": 13.0,
-    "precio_actual": 10.0
+    "peso_kg": 16,
+    "precio_anterior": 13,
+    "precio_actual": 10
   },
   {
     "codigo": 96,
@@ -1645,9 +1645,9 @@
     "nombre_completo": "PLÁTANO BARRAGANETE VERDE",
     "tamaño": "",
     "presentacion": "RACIMO",
-    "peso_kg": 18.0,
-    "precio_anterior": 10.0,
-    "precio_actual": 10.0
+    "peso_kg": 18,
+    "precio_anterior": 10,
+    "precio_actual": 10
   },
   {
     "codigo": 98,
@@ -1656,9 +1656,9 @@
     "nombre_completo": "PLÁTANO DOMINICO MADURO",
     "tamaño": "",
     "presentacion": "RACIMO",
-    "peso_kg": 15.0,
-    "precio_anterior": 14.0,
-    "precio_actual": 10.0
+    "peso_kg": 15,
+    "precio_anterior": 14,
+    "precio_actual": 10
   },
   {
     "codigo": 99,
@@ -1667,9 +1667,9 @@
     "nombre_completo": "PLÁTANO DOMINICO VERDE",
     "tamaño": "",
     "presentacion": "RACIMO",
-    "peso_kg": 16.0,
-    "precio_anterior": 12.0,
-    "precio_actual": 13.0
+    "peso_kg": 16,
+    "precio_anterior": 12,
+    "precio_actual": 10
   },
   {
     "codigo": 97,
@@ -1678,9 +1678,9 @@
     "nombre_completo": "PLÁTANO MAQUEÑO",
     "tamaño": "",
     "presentacion": "CAJAS",
-    "peso_kg": 40.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 20.0
+    "peso_kg": 40,
+    "precio_anterior": 20,
+    "precio_actual": 20
   },
   {
     "codigo": 181,
@@ -1689,9 +1689,9 @@
     "nombre_completo": "PLÁTANO MAQUEÑO",
     "tamaño": "",
     "presentacion": "RACIMO",
-    "peso_kg": 25.0,
-    "precio_anterior": 18.0,
-    "precio_actual": 8.0
+    "peso_kg": 25,
+    "precio_anterior": 18,
+    "precio_actual": 17
   },
   {
     "codigo": 94,
@@ -1700,9 +1700,9 @@
     "nombre_completo": "PLÁTANO ORITO",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 25.0,
-    "precio_anterior": 8.0,
-    "precio_actual": 9.0
+    "peso_kg": 25,
+    "precio_anterior": 8,
+    "precio_actual": 7
   },
   {
     "codigo": 93,
@@ -1711,9 +1711,9 @@
     "nombre_completo": "PLÁTANO SEDA",
     "tamaño": "",
     "presentacion": "RACIMO",
-    "peso_kg": 20.0,
-    "precio_anterior": 20.0,
-    "precio_actual": 12.0
+    "peso_kg": 20,
+    "precio_anterior": 20,
+    "precio_actual": 10
   },
   {
     "codigo": 38,
@@ -1724,7 +1724,7 @@
     "presentacion": "ATADO",
     "peso_kg": 0.5,
     "precio_anterior": 0.35,
-    "precio_actual": 0.4
+    "precio_actual": 0.04
   },
   {
     "codigo": 193,
@@ -1733,9 +1733,9 @@
     "nombre_completo": "REMOLACHA",
     "tamaño": "",
     "presentacion": "ATADO",
-    "peso_kg": 3.0,
-    "precio_anterior": 1.0,
-    "precio_actual": 1.5
+    "peso_kg": 3,
+    "precio_anterior": 1,
+    "precio_actual": 0.08
   },
   {
     "codigo": 39,
@@ -1744,9 +1744,9 @@
     "nombre_completo": "REMOLACHA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 6.0,
-    "precio_actual": 8.0
+    "peso_kg": 30,
+    "precio_anterior": 6,
+    "precio_actual": 7
   },
   {
     "codigo": 40,
@@ -1755,8 +1755,8 @@
     "nombre_completo": "SAMBO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 58.0,
-    "precio_anterior": 15.0,
+    "peso_kg": 58,
+    "precio_anterior": 15,
     "precio_actual": ""
   },
   {
@@ -1766,9 +1766,9 @@
     "nombre_completo": "SANDÍA HÍBRIDA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "UNIDAD",
-    "peso_kg": 11.0,
-    "precio_anterior": 3.0,
-    "precio_actual": ""
+    "peso_kg": 11,
+    "precio_anterior": 3,
+    "precio_actual": 2.5
   },
   {
     "codigo": 101,
@@ -1777,9 +1777,9 @@
     "nombre_completo": "SANDÍA HÍBRIDA PAREJA",
     "tamaño": "PAREJA",
     "presentacion": "UNIDAD",
-    "peso_kg": 6.0,
+    "peso_kg": 6,
     "precio_anterior": 1.5,
-    "precio_actual": ""
+    "precio_actual": 1.5
   },
   {
     "codigo": 102,
@@ -1788,9 +1788,9 @@
     "nombre_completo": "SANDÍA HÍBRIDA PEQUEÑA",
     "tamaño": "PEQUEÑA",
     "presentacion": "UNIDAD",
-    "peso_kg": 4.0,
-    "precio_anterior": 1.0,
-    "precio_actual": ""
+    "peso_kg": 4,
+    "precio_anterior": 1,
+    "precio_actual": 1
   },
   {
     "codigo": 182,
@@ -1799,9 +1799,9 @@
     "nombre_completo": "TAMARINDO",
     "tamaño": "",
     "presentacion": "GAVETAS",
-    "peso_kg": 0.0,
-    "precio_anterior": 18.0,
-    "precio_actual": ""
+    "peso_kg": 0,
+    "precio_anterior": 18,
+    "precio_actual": 18
   },
   {
     "codigo": 184,
@@ -1810,9 +1810,9 @@
     "nombre_completo": "TAXO AMARILLO",
     "tamaño": "",
     "presentacion": "GAVETAS",
-    "peso_kg": 20.0,
-    "precio_anterior": 14.0,
-    "precio_actual": ""
+    "peso_kg": 20,
+    "precio_anterior": 14,
+    "precio_actual": 12
   },
   {
     "codigo": 183,
@@ -1821,9 +1821,9 @@
     "nombre_completo": "TAXO VERDE",
     "tamaño": "",
     "presentacion": "GAVETAS",
-    "peso_kg": 22.0,
-    "precio_anterior": 18.0,
-    "precio_actual": ""
+    "peso_kg": 22,
+    "precio_anterior": 18,
+    "precio_actual": 14
   },
   {
     "codigo": 103,
@@ -1832,9 +1832,9 @@
     "nombre_completo": "TOMATE DE ÁRBOL AMARILLO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 23.0,
-    "precio_actual": 23.0
+    "peso_kg": 30,
+    "precio_anterior": 23,
+    "precio_actual": 22
   },
   {
     "codigo": 104,
@@ -1843,9 +1843,9 @@
     "nombre_completo": "TOMATE DE ÁRBOL AMARILLO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 18.0,
-    "precio_actual": 18.0
+    "peso_kg": 30,
+    "precio_anterior": 18,
+    "precio_actual": 15
   },
   {
     "codigo": 105,
@@ -1854,9 +1854,9 @@
     "nombre_completo": "TOMATE DE ÁRBOL MORADO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 30.0,
-    "precio_anterior": 39.0,
-    "precio_actual": 38.0
+    "peso_kg": 30,
+    "precio_anterior": 39,
+    "precio_actual": 39
   },
   {
     "codigo": 41,
@@ -1865,9 +1865,9 @@
     "nombre_completo": "TOMATE RIÑÓN PIETRO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "GAVETAS",
-    "peso_kg": 22.0,
-    "precio_anterior": 12.0,
-    "precio_actual": 12.0
+    "peso_kg": 22,
+    "precio_anterior": 12,
+    "precio_actual": 12
   },
   {
     "codigo": 43,
@@ -1876,9 +1876,9 @@
     "nombre_completo": "TOMATE RIÑÓN PIETRO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CARTON",
-    "peso_kg": 25.0,
-    "precio_anterior": 12.0,
-    "precio_actual": 12.0
+    "peso_kg": 25,
+    "precio_anterior": 12,
+    "precio_actual": 12
   },
   {
     "codigo": 42,
@@ -1887,9 +1887,9 @@
     "nombre_completo": "TOMATE RIÑÓN PIETRO PAREJO",
     "tamaño": "PAREJO",
     "presentacion": "GAVETAS",
-    "peso_kg": 20.0,
-    "precio_anterior": 10.0,
-    "precio_actual": 8.0
+    "peso_kg": 20,
+    "precio_anterior": 10,
+    "precio_actual": 8
   },
   {
     "codigo": 185,
@@ -1898,9 +1898,9 @@
     "nombre_completo": "TORONJA PULPA BLANCA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CIENTO",
-    "peso_kg": 28.0,
-    "precio_anterior": 12.0,
-    "precio_actual": ""
+    "peso_kg": 28,
+    "precio_anterior": 12,
+    "precio_actual": 15
   },
   {
     "codigo": 186,
@@ -1909,9 +1909,9 @@
     "nombre_completo": "TORONJA PULPA ROJA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "CIENTO",
-    "peso_kg": 28.0,
+    "peso_kg": 28,
     "precio_anterior": "",
-    "precio_actual": 12.0
+    "precio_actual": 12
   },
   {
     "codigo": 106,
@@ -1920,9 +1920,9 @@
     "nombre_completo": "UVAS NEGRA",
     "tamaño": "",
     "presentacion": "CAJAS",
-    "peso_kg": 9.0,
-    "precio_anterior": 16.0,
-    "precio_actual": ""
+    "peso_kg": 9,
+    "precio_anterior": 16,
+    "precio_actual": 18
   },
   {
     "codigo": 107,
@@ -1931,9 +1931,9 @@
     "nombre_completo": "UVAS ROJA",
     "tamaño": "",
     "presentacion": "CAJAS",
-    "peso_kg": 9.0,
-    "precio_anterior": 20.0,
-    "precio_actual": ""
+    "peso_kg": 9,
+    "precio_anterior": 20,
+    "precio_actual": 22
   },
   {
     "codigo": 108,
@@ -1942,9 +1942,9 @@
     "nombre_completo": "UVAS VERDE AMERICANA",
     "tamaño": "",
     "presentacion": "CAJAS",
-    "peso_kg": 8.0,
-    "precio_anterior": 43.0,
-    "precio_actual": ""
+    "peso_kg": 8,
+    "precio_anterior": 43,
+    "precio_actual": 50
   },
   {
     "codigo": 187,
@@ -1953,9 +1953,9 @@
     "nombre_completo": "UVILLA COMÚN GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "GAVETAS",
-    "peso_kg": 10.0,
-    "precio_anterior": 13.0,
-    "precio_actual": ""
+    "peso_kg": 10,
+    "precio_anterior": 13,
+    "precio_actual": 14
   },
   {
     "codigo": 44,
@@ -1964,9 +1964,9 @@
     "nombre_completo": "VAINITA",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 15.0,
-    "precio_anterior": 17.0,
-    "precio_actual": ""
+    "peso_kg": 15,
+    "precio_anterior": 17,
+    "precio_actual": 16
   },
   {
     "codigo": 45,
@@ -1975,8 +1975,8 @@
     "nombre_completo": "YUCA AMARILLA",
     "tamaño": "",
     "presentacion": "FUNDA",
-    "peso_kg": 22.0,
-    "precio_anterior": 16.0,
+    "peso_kg": 22,
+    "precio_anterior": 16,
     "precio_actual": ""
   },
   {
@@ -1986,9 +1986,9 @@
     "nombre_completo": "YUCA BLANCA",
     "tamaño": "",
     "presentacion": "FUNDA",
-    "peso_kg": 37.0,
-    "precio_anterior": 16.0,
-    "precio_actual": 20.0
+    "peso_kg": 37,
+    "precio_anterior": 16,
+    "precio_actual": 22
   },
   {
     "codigo": 46,
@@ -1997,9 +1997,9 @@
     "nombre_completo": "ZANAHORIA AMARILLA GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 35.0,
-    "precio_anterior": 34.0,
-    "precio_actual": 34.0
+    "peso_kg": 35,
+    "precio_anterior": 34,
+    "precio_actual": 34
   },
   {
     "codigo": 199,
@@ -2009,8 +2009,8 @@
     "tamaño": "GRANDE",
     "presentacion": "SACO",
     "peso_kg": 45.5,
-    "precio_anterior": 35.0,
-    "precio_actual": 34.0
+    "precio_anterior": 35,
+    "precio_actual": 34
   },
   {
     "codigo": 48,
@@ -2019,9 +2019,9 @@
     "nombre_completo": "ZAPALLO COSTA GRANDES",
     "tamaño": "GRANDES",
     "presentacion": "UNIDAD",
-    "peso_kg": 5.0,
+    "peso_kg": 5,
     "precio_anterior": 2.5,
-    "precio_actual": ""
+    "precio_actual": 2.5
   },
   {
     "codigo": 47,
@@ -2030,9 +2030,9 @@
     "nombre_completo": "ZAPALLO SIERRA UNIDAD",
     "tamaño": "UNIDAD",
     "presentacion": "UNIDAD",
-    "peso_kg": 5.0,
-    "precio_anterior": 3.0,
-    "precio_actual": ""
+    "peso_kg": 5,
+    "precio_anterior": 3,
+    "precio_actual": 2.5
   },
   {
     "codigo": 201,
@@ -2041,7 +2041,7 @@
     "nombre_completo": "ZAPOTE CRIOLLO GRANDE",
     "tamaño": "GRANDE",
     "presentacion": "SACO",
-    "peso_kg": 100.0,
+    "peso_kg": 100,
     "precio_anterior": "",
     "precio_actual": ""
   },
@@ -2052,8 +2052,8 @@
     "nombre_completo": "ZUQUINI AMARILLO",
     "tamaño": "",
     "presentacion": "CARTON",
-    "peso_kg": 20.0,
-    "precio_anterior": 9.0,
+    "peso_kg": 20,
+    "precio_anterior": 9,
     "precio_actual": ""
   },
   {
@@ -2064,7 +2064,7 @@
     "tamaño": "",
     "presentacion": "CAJAS",
     "peso_kg": 9.5,
-    "precio_anterior": 9.0,
+    "precio_anterior": 9,
     "precio_actual": ""
   }
 ]
